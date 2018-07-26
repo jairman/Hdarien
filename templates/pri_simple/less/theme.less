@@ -1,0 +1,496 @@
+/**
+ * PRI Simple - Free Responsive Joomla! Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+
+
+/*Header start here */
+#sp-header-wrapper{
+	padding:20px 0;
+	.logo-wrapper{
+		padding:5px 0;
+		.logo{
+			background-position:0 50%;
+			background-repeat:no-repeat;
+		}
+		.logo-text{
+			margin-top:5px;
+			font-size:24px;
+			line-height: 25px;
+		}
+		.logo-slogan{
+			font-size:11px;
+		}
+	}
+	
+	.search{
+		margin-top:10px;
+		form{
+			margin:0;
+		}
+	}
+}
+/* Sticky Menu - only for desktop*/
+@media (min-width: 979px) {
+	/* Fixed Menu */
+	#sp-header-wrapper.sticky {
+   		position: fixed;
+    	width: 100%;
+    	z-index: 1000;
+		transform: translateZ(0);
+		-webkit-transform: translateZ(0);
+	}
+}
+/* Code Only for Phone and Tablet */
+@media (max-width: 979px) {
+	#sp-menu{
+		display:none;
+	}
+	/* Logo Position */
+	#sp-logo {
+    width: 100% !important;
+	}
+	/* Logo Wrapper */
+	.logo-wrapper{
+		margin-left:auto !important;
+		margin-right:auto !important;
+	}
+}
+/* Menu - LTR Language */
+.ltr #sp-menu {
+	text-align:right;
+}
+/* Menu - RTL Language */
+.rtl #sp-menu {
+	text-align:left;
+}
+/* Main Menu */
+#sp-main-menu {
+	/* Menu List */
+	ul {
+		list-style:none;
+		margin:0;
+		padding:0;
+		/* Parent Items */
+		&.level-0 {
+			/* Parent List Item */
+			> li {
+				display:inline-block;
+				position:relative;
+				z-index:10000;
+				/* After Menu - pseudo-element*/
+					&:after{
+						border-top:2px solid;
+						display:block;
+						top:0;
+						position:absolute;
+						height:0;
+						opacity:0;
+						left:0;
+						right:0;
+						content:"";
+						z-index:1000;
+						.transition(all 200ms);
+					}
+										/* Hover After - pseudo-element */
+					&:hover:after,
+					&.active:after{
+						opacity:1;
+					}
+				/* Menu Link */
+				> a {
+					cursor:pointer;
+					display:block;
+					position:relative;
+					font-size: 14px;
+					line-height: 36px;
+					outline: 0 none;
+					margin:0 10px;
+					padding: 12px 0;
+					text-transform:uppercase;
+					font-weight:normal;
+					text-decoration: none;
+					/* Menu description */
+					.menu-desc {
+						display:none;
+					}
+				}
+				/* Hover & Active Menu */
+				&:hover,
+				&.active {
+					>a{
+						color:@accent_color;
+					}
+				}
+				/* Hover Menu */
+				&:hover {
+				}
+				/* Parent Item */
+				&.parent {
+					/* Parent Hover */
+					&:hover {	
+					}
+				}
+			}
+		}
+	}
+	/* Menu Items for Dropdown */
+	li{
+		/* Menu Items - exclude menu group */
+		li:not(.sp-menu-group) {
+			border-bottom:1px solid;
+			display:block;
+			position:relative;
+    		text-align: left;
+			.transition(all 100ms);
+			/* After Item Menu - pseudo-element */
+			&:after{
+				border-bottom:1px solid;
+			}
+			/* Menu Item - first child */
+			&:first-child {
+				margin-top:0px;
+			}
+			/* Menu Item - last child */
+			&:last-child {
+				margin-bottom:-1px;
+				border-bottom:0px;
+			}
+			/* Menu link */
+			a {
+				display:block;
+				font-size:14px;
+				font-weight:normal;
+				line-height:normal;
+				text-decoration:none;
+				padding:10px;
+				margin:0;
+				.transition(all 200ms);
+			}
+			/* Hover & Active Menu */
+			&:hover,
+			&.active{
+			}
+		}
+	}
+	/* Megamenu Groups */
+	.sp-menu-group {
+		/* Group Title */
+		.sp-menu-group-title {
+			border-bottom:1px solid;
+			a{
+				cursor:pointer;
+				display:block;
+				position:relative;
+				font-size: 16px;
+				line-height: 26px;
+				outline: 0 none;
+				padding: 10px;
+				font-weight:normal;
+				text-decoration: none;
+			}
+			/* Menu Title */
+			.menu-title {
+			}
+		}
+		/* Module Styling inside Menu */
+		.sp-menu-group-content {
+			/* Module Inner */
+			.module{
+				margin:0;
+				padding:5px;
+			}
+		}
+	}
+}
+/* Submenu */
+.sp-submenu {
+	position: absolute;
+	visibility:hidden;
+	opacity:0;
+	z-index: 0;
+	margin-top:0;
+	margin-bottom:-1px;
+	transform-origin:top;
+	-webkit-transform-origin:top;
+	.scale(0);
+	.transition(all 200ms);
+	/* Submenu Warpper */
+	.sp-submenu-wrap{
+		position:relative;
+	}
+	/* Open Submenu */
+	&.open {
+		z-index:900;
+		visibility:visible;
+		opacity:1;
+		.scale(1);
+	}
+	/* Submenu Child */
+	&.sub-level-child {
+		/* Open Child */
+		&.open {
+		}
+	}
+	/* Submenu Column */
+	.megacol {
+		> .sp-menu{
+			height: 100%;
+		}
+	}
+}
+/* Menu - LTR Language*/
+.ltr{
+	/* Main Menu */
+	#sp-main-menu {
+		/* Menu List */
+		ul {
+			/* Menu Parents */
+			&.level-0 {
+				> li {
+					/* Item Link */
+					a{
+						text-align: left;
+					}
+				}
+			}
+		}
+	}
+	/* Submenu */
+	.sp-submenu {
+		margin-right:30px;
+		/* Open Submenu */
+		&.open {
+		}
+		/* Submenu Child */
+		&.sub-level-child {
+			/* Open Submenu Child */
+			&.open {
+			}
+		}
+		/* Menu Column */
+		.megacol {
+			float:left;
+			margin-left:-1px;
+			border-left: 1px solid;
+			&.first{
+				border-left:none;
+				margin-left:0;
+			}
+		}
+	}
+}
+/* Menu - RTL Language*/
+.rtl{
+	/* Main Menu */
+	#sp-main-menu {
+		/* Menu List */
+		ul {
+			/* Menu Parents */
+			&.level-0 {
+				> li {
+					/* Item Link */
+					a{
+						text-align:right;
+					}
+				}
+			}
+		}
+	}
+	/* Submenu */
+	.sp-submenu {
+		margin-left:30px;
+		/* Open Submenu */
+		&.open {
+		}
+		/* Submenu Child */
+		&.sub-level-child {
+			/* Open Submenu Child */
+			&.open {
+			}
+		}
+		/* Menu Column */
+		.megacol {
+			float:right;
+			margin-right:-1px;
+			border-right: 1px solid;
+			&.first{
+				border-right:none;
+				margin-right:0;
+			}
+		}
+	}
+}
+
+/* Mobile Menu */
+.sp-mobile-menu {
+	top:60px;
+	position:absolute;
+	width:100%;
+	z-index:1000;
+	select{
+		&.select-menu {
+			width: 32px;
+			height: 27px;
+			opacity: 0;
+			position: absolute;
+			left: 0;
+			top: 0;
+			z-index:1;
+			cursor:pointer;
+		}
+	}
+	/* List Menu Mobile */
+	ul li{
+		border-bottom:1px solid;
+		/* First Item Menu */
+		li:first-child{
+			border-top:1px solid;
+		}
+		/* Last Item Menu*/
+		li:last-child{
+			border-bottom:0;			
+		}
+	}
+}
+/* Mobile Menu Toggler */
+.sp-main-menu-toggler {
+    top: 15px !important;
+	z-index:1000;
+}
+/* Mobile Menu Toggler - LTR Language */
+.ltr .sp-main-menu-toggler {
+	left:10px !important;
+	right:auto !important;
+	position:absolute !important;
+}
+/* Mobile Menu Toggler - RTL Language */
+.rtl .sp-main-menu-toggler {
+	right:10px !important;
+	left:auto !important;
+	position:absolute !important;
+}
+
+
+/*Feature main title  start here */
+
+
+/*-- User wrapper --*/
+#sp-users-wrapper {
+	padding:30px 0;
+	border-top:1px solid @bg_color;
+	background:darken(@bg_color, 5%);
+}
+
+//Breadcrumb
+ul{
+	&.breadcrumb{
+		margin:0;
+		padding-left:0;
+		padding-right:0;
+		background:transparent;
+		text-shadow: none !important;
+		font-family: 'Lato', sans-serif !important;
+		font-weight:300 !important;
+	}
+}	
+
+.sp-border {
+	position:relative;
+	&::after {
+		content: " ";
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:1px;
+	}
+}
+
+/*Footer*/
+#sp-footer-wrapper {
+	padding:30px 0;
+	.sp-border();
+	ul{
+		list-style: none;
+		padding:0;
+		margin:0;
+	}
+}
+
+
+/*Buttons*/
+button,
+input[type='submit'],
+input[type='button'],
+submit {
+	.btn();
+}
+
+//Social Icons
+.btn{
+	&.social{
+		background:@footer_color;
+		.transition(all 200ms);
+		&.facebook{
+			color:darken(@blue,10%);
+			&:hover{
+				background:darken(@blue,10%);
+				color:@white;
+			}
+		}
+		&.twitter{
+			color:lighten(@blue,10%);
+			&:hover{
+				background:lighten(@blue,10%);
+				color:@white;
+			}
+		}
+		&.pinterest{
+			color:lighten(@red,20%);
+			&:hover{
+				background:lighten(@red,20%);
+				color:@white;
+			}
+		}
+		&.gplus{
+			color:@red;
+			&:hover{
+				background:@red;
+				color:@white;
+			}
+		}
+		&:hover{
+			text-decoration:none;
+		}
+	}
+}
+#sp-copyright-wrapper {
+	.container {
+		margin-bottom: -10px;
+	}
+	#sp-copyright{
+		line-height:30px;
+	}
+}
+.center {
+	text-align:center;
+	th,tr,td{
+		text-align:center;
+	}
+}
+
+.row-fluid {
+	margin-bottom:20px;
+	&:first-child{
+		margin-bottom:0;
+	}
+}

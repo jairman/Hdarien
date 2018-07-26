@@ -1,0 +1,171 @@
+/**
+ * PRI Simple - Free Responsive Joomla! Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+
+//module variation
+.module {
+	margin-top:20px;
+	&:first-child{
+		margin-top:0;
+	}
+	h3 {
+		font-size:24px;
+		font-weight:400;
+		margin:0 0 10px 0;
+		line-height:normal;
+	}
+	/* Module Title - Center */
+	&.title-center {
+		h3 {
+			text-align:center;
+		}
+	}
+	/* Module Title - Right */
+	&.title-right {
+		h3 {
+			text-align:right;
+		}
+	}
+	/* Mini Title Module */
+	&.title-mini {
+		h3 {
+			font-size:16px;
+		}
+	}
+	/* Small Title Module */
+	&.title-small {
+		h3 {
+			font-size:20px;
+		}
+	}
+	/* Normal Title Module */
+	&.title-normal {
+		h3 {
+			font-size:24px;
+		}
+	}
+	/* Large Title Module */
+	&.title-large {
+		h3 {
+			font-size:28px;
+		}
+	}
+	&.highlighted,
+	&.orange,
+	&.dark,
+	&.green,
+	&.maroon,
+	&.blue,
+	&.gray,
+	&.pink,
+	&.red {
+		h3 {
+			padding:0 0 10px 0;
+			border-bottom:1px dashed @white;
+			color:@white;
+		}
+		padding:20px;
+		color:@white;
+		.border-radius(2px);
+		.box-shadow(0px 1px 2px rgba(0,0,0,.5) inset);
+	}
+	
+	&.orange {
+		background:fade(@orange,50%);
+		a{
+		 color:#B66B00;
+			 
+		&:hover{
+			   color:#6F4100;
+			   }
+		}
+	}
+	
+	&.dark {
+		background:fade(@black,50%);
+		a{
+		 color:#777;
+			 
+		&:hover{
+			   color:#888;
+			   }
+		}
+	}
+	&.green {
+		background:fade(@green,50%);
+		a{
+		 color:#63E063;
+			 
+		&:hover{
+			   color:#43F043;
+			   }
+		}
+	}
+	&.maroon {
+		background:fade(#F35D34,50%);
+		a{
+		 color:#B4300D;
+			 
+		&:hover{
+			   color:#C93F19;
+			   }
+		}
+	}
+	&.blue {
+		background:fade(@blue,50%);
+		a{
+		 color:#47C9FF;
+			 
+		&:hover{
+			   color:#0073A3;
+			   }
+		}
+	}
+	&.gray {
+		background:fade(@gray,50%);
+		a{
+		 color:#999;
+			 
+		&:hover{
+			   color:#777;
+			   }
+		}
+	}
+	&.pink {
+		background:fade(@pink,50%);
+		a{
+		 color:#FF5C8F;
+			 
+		&:hover{
+			color:#FA2E6E;
+		   }
+		}
+	}
+	&.red {
+		background:fade(@red,50%);
+		a{
+		 color:#EE4538;
+			 
+		&:hover{
+			   color:#DA3F33;
+			   }
+		}
+	}
+}
+/* PRI Title */
+.pri-title {
+    text-align: center;
+    font-size: 36px;
+    line-height: 120px;
+    text-transform: uppercase;
+    font-family: "Lato";
+}

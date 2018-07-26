@@ -1,0 +1,89 @@
+/*
+se oculta los botones de selecicionar datos a mosytrar de la paginacion
+y se centra la lista la numeracion de las paginas
+ */
+
+.btn{
+    display: none !important;
+}
+
+.pagination{
+    margin: 30px 40px 0px 40px;
+}
+
+
+
+.style-font{
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;	
+}
+
+td,
+th {
+  padding: 0.5% !important;
+}
+
+#procesos_enviar input:focus:required{
+	border: 1px solid red;
+}
+
+#procesos_enviar #t_insumos input, #procesos_enviar #t_procesos input{
+	text-align: center;
+}
+
+#t_insumos{
+	/*display: none;*/
+}
+
+/* venta a mostrar informacion de los insumos**/
+.modalLoad {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 0, 0, 0, .8 ) 
+                url('../../img/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+.listaInput{
+	outline: 0px;
+}
+
+.ventana{
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 0, 0, 0, .8 ) 
+                50% 50% 
+                no-repeat;
+}
+
+
+.ventana div {
+	background: red;
+	margin: auto;
+	width: 90%;
+}
+
+.ventana div.cerrar label{
+	color: #fff;
+	cursor: pointer;
+	float: right;
+	text-align: right;
+	width: 90%;
+}
+
+.ventana div.contenido{
+	background: #fff;
+	height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}

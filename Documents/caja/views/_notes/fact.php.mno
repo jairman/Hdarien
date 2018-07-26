@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_abon" value="name:id;datatype:int,name:orden;datatype:string,name:abono;datatype:string,name:fecha;datatype:date,name:empre;datatype:string,name:trm;datatype:string,name:cuenta;datatype:string,name:salida;datatype:string,name:hacienda;datatype:string,name:docu;datatype:string" />
+</info>

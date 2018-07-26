@@ -1,0 +1,298 @@
+/* css dib notas*/
+
+addul[contenteditable]{  
+    border: 1px dotted transparent;  
+}  
+[contenteditable]:hover{  
+    background: #fff7c3;  
+    border: 1px dotted #f0df6c;  
+} 
+
+[contentEditable=true]:empty:not(:focus):before{
+    content:attr(data-ph);
+}
+
+#notaMensaje{
+    font-style:italic;color:#888;
+    background: #fff7c3;  
+    border: 1px dotted #f0df6c;
+    height:150px; 
+}
+
+#notas_m_e{
+	background: #fff7c3;  
+    border: 1px dotted #f0df6c;
+    padding: 5px;
+    width: 98%;    
+}
+
+/**todos los enlace muestre el mismo cursor*/
+a{
+    cursor: pointer;
+}
+
+input[type=text], input[type=time],#RegistrarA select{
+    text-align: left;
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    box-shadow: 1px 2px 0px #ccc, 0 10px 15px #eee inset;   
+    padding: 3px; 
+}
+
+table{
+    text-align: left;
+}
+
+#lugar_r{
+    width: 268px;
+}
+
+#mes_r, #anio_r, #dia_r{
+    width: 80px;
+}
+
+#responsable,#lugar_re,#responsable_m,#lugar_mod,#punto_ep{
+    text-align: left;
+    width: 150px;
+}
+
+#formRegistrarA table, #formodificarA table,#formaplazarA table, #mostrar_evento table, #formPeriodico table{
+    text-align: left;
+    float: right;
+}
+
+ #mostrar_evento table td.cont{
+    padding-left: 20px;
+ }
+
+#historialEventos table, #listaA table{
+	text-align: center;
+}
+
+#mainCalendario{
+    /*background: red;*/
+    display: block;
+    margin: auto;
+    width: 95%;
+}
+/* clases */
+ .alinear{
+    text-align: right !important;
+    padding-left: 80px !important;
+ }
+
+ /* modificacion de algunas clases para mejorar mostrar los formularios*/
+.bold{
+    padding: 15px 0 3px 8px;
+}
+.cont{
+    padding: 15px 0 3px 8px;
+}
+
+.boldt{
+    font-weight:bold;
+    padding:3px 15px 3px 15px ;
+    background-color: #D9D9D9 ;
+    /*background-image:url(../img/osb.png);*/
+    border-bottom:2px solid #2f2f2f;
+    color: #222222;    
+}
+
+.anterior, .siguiente{
+    margin: auto;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.anterior{
+    float: left;
+}
+
+.mensajeDialogo{
+     display: none;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background: #000;
+     z-index:1001;
+     opacity:.75;
+     -moz-opacity: 0.75;
+     filter: alpha(opacity=75);
+}
+
+.button{
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+/* css controles para navegar entre fechas y dias*/
+.siguiente{
+    float: right;
+}
+
+.control{
+    width: 100%;
+}
+
+.control1{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    /*margin-top: -40px;*/
+    width: 89%;
+}
+
+.control1 select{
+	margin-top:13px;
+}
+
+/*#calendario{
+    display: block;
+    float: left;
+    margin: auto;
+    width: 44%; 
+}*/
+
+/* css calendario */
+.capacalendario{
+    min-width: 40%;
+    position: absolute;
+}
+.capacalendarioborde{
+    padding: 3px;
+}
+
+/* color encabezado del calendario l,m,m,j,v,s,d*/
+/*.diassemana{
+    overflow: hidden;
+    background: #2089c2;
+    margin: 1px 0;
+}*/
+
+.diasmes{
+    overflow: hidden;
+}
+
+.diassemana span a, .diasmes span a{
+    margin:auto;
+}
+
+.diassemana span, .diasmes span{
+    border-top: 1px  solid #f0f0f0;
+    /*border-bottom: 1px  solid #f0f0f0;*/
+    cursor: pointer;
+    min-width: 14%;
+    display: block;
+    float: left;
+    text-align: center;
+    height: 3em;
+    line-height: 1.5em;
+    font-size: 0.875em;
+}
+
+.diassemana span{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;    
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    height: 1.8em;
+    line-height: 1.8em;
+}
+
+.diasmes span{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;    
+    background: #fff;
+}
+
+.diasmes span.diainvalido{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;    
+    background: #fff;
+}
+
+.diasmes span.domingo{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;
+    color: #000;
+}
+.capacalendario span.primero{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;    
+    margin-left:0 !important;
+}
+.capacalendario span.ultimo{
+    border-left: 1px  solid #f0f0f0;
+    border-bottom: 1px  solid #f0f0f0;    
+    margin-right:0 !important;
+}
+
+/* Css mostrar clases que resaltan eventos */
+/*Dia actual colores eventos en el calendario*/
+/*ventana modal mostrar imagen de loading*/
+.modal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 0, 0, 0, .8 ) 
+                url('../../img/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+
+/* organizacion del contenido capa mostrar calendario float1 y capa mostrar formulario y listas float2 */
+/* no mostrar algunos elementos al cargar la pagina */
+#RegistrarA, #listaActividades, #modificarA,#aplazarA, #estadoO, #logo,#mostrar_evento,#EventoPeriodio{
+    display: none;
+}
+
+#listaA{
+    /*background: pink;*/
+    display: block;
+    height: 260px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 585px;
+}
+
+#dialog img{
+    display: inline-block;
+}
+
+#notasD{
+    position: fixed;
+    bottom:0;
+    top: 330px;
+    height: 180px;
+    overflow-x:hidden;
+    overflow-y: auto;
+    width: 40%;
+}
+
+#float1{
+    float: left;
+    margin-top: 20px;
+    width: 44%;
+}
+
+#float2,#horafecha{
+    float: right;
+}
+
+#float2{
+    width: 585px;
+}
+
+#titulo{
+    font-size: 18px;
+}

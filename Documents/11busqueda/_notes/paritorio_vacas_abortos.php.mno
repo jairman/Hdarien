@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ab" value="name:id;datatype:int,name:conse;datatype:int,name:padre;datatype:string,name:madre;datatype:string,name:idcria;datatype:string,name:nacim;datatype:string,name:fecha;datatype:date,name:ubica;datatype:string,name:respon;datatype:string,name:observ;datatype:string" />
+</info>

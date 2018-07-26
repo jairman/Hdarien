@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_alert" value="name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string" />
+	<infoitem key="UD_alt" value="name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string" />
+	<infoitem key="UD_caja" value="name:concep;datatype:string,name:descrip;datatype:string,name:estado;datatype:string,name:v_tal;datatype:int,name:cliente;datatype:string,name:f_alarma;datatype:date,name:factura;datatype:int" />
+</info>

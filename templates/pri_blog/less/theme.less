@@ -1,0 +1,159 @@
+/**
+ * PRI Blog - Free Responsive Joomla! Blog Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+ 
+ .body-innerwrapper{
+	 position:relative;
+	 z-index:1;
+ }
+.fixed {
+    position: fixed;
+	z-index:10000;
+	-webkit-transform: translateZ(0);
+	.logo-wrapper{
+		.logo{
+			transition:all 500ms ease;
+		}
+	}
+}
+.center {
+	text-align:center;
+	th,tr,td{
+		text-align:center;
+	}
+}
+
+.row-fluid {
+	z-index:1;
+	margin-bottom:20px;
+	&:first-child{
+		margin-bottom:0;
+	}
+}
+
+/*Header start here */
+#sp-header-wrapper{
+	z-index:10 !important;
+	.logo-wrapper{
+		.logo{
+			background-position:0 50%;
+			background-repeat:no-repeat;
+		}
+		.logo-text{
+			font-size:24px;
+		}
+		.logo-slogan{
+			font-size:11px;
+		}
+	}
+}
+
+.sp-main-menu-toggler {
+    position: fixed !important;
+}
+.body-innerwrapper{
+	overflow-x:hidden;
+}
+#sp-main-body-wrapper {
+	padding:30px 0;
+}
+
+/*Feature main title  start here */
+
+
+/*-- User wrapper --*/
+#sp-users-wrapper {
+	padding:30px 0;
+	border-top:1px solid @bg_color;
+	background:darken(@bg_color, 5%);
+}
+
+//Breadcrumb
+ul{
+	&.breadcrumb{
+		margin:0;
+		padding-left:0;
+		padding-right:0;
+		background:transparent;
+	}
+}	
+
+.sp-border {
+	position:relative;
+	&::after {
+		content: " ";
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:1px;
+	}
+}
+
+/*Footer*/
+#sp-footer-wrapper {
+	padding:30px 0;
+	.sp-border();
+}
+
+
+/*Buttons*/
+button,
+input[type='submit'],
+input[type='button'],
+submit {
+	.btn();
+}
+
+//Social Icons
+.btn{
+	&.social{
+		background:fade(@header_color,50%);
+		border-radius:4px;
+		.transition(all 200ms);
+		&.facebook{
+			color:darken(@blue,10%);
+			&:hover{
+				background:darken(@blue,10%);
+				color:@white;
+			}
+		}
+		&.twitter{
+			color:lighten(@blue,10%);
+			&:hover{
+				background:lighten(@blue,10%);
+				color:@white;
+			}
+		}
+		&.pinterest{
+			color:lighten(@red,20%);
+			&:hover{
+				background:lighten(@red,20%);
+				color:@white;
+			}
+		}
+		&.gplus{
+			color:@red;
+			&:hover{
+				background:@red;
+				color:@white;
+			}
+		}
+		&:hover{
+			text-decoration:none;
+		}
+	}
+}
+
+#sp-copyright{
+	line-height:30px;
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tareas" value="name:id;datatype:int,name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string,name:jorn;datatype:date,name:hac;datatype:string,name:respon;datatype:string,name:comen;datatype:string" />
+	<infoitem key="UD_hierro" value="name:id;datatype:int,name:hierro;datatype:string,name:nombre;datatype:string,name:comentarios;datatype:blob" />
+	<infoitem key="UD_ubc" value="name:hacienda;datatype:string" />
+</info>

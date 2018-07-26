@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_notas" value="name:id;datatype:int,name:tarea;datatype:blob,name:hora;datatype:string,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string,name:jorn;datatype:date,name:hac;datatype:string,name:respon;datatype:string,name:comen;datatype:string,name:user;datatype:string,name:tiem;datatype:timestamp,name:delete;datatype:int" />
+</info>

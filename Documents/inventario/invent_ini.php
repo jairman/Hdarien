@@ -1,0 +1,1 @@
+<?php include("views/invent_ini.php"); ?>

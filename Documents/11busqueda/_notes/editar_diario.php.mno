@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editar_diario" value="name:id;datatype:int,name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date" />
+	<infoitem key="UD_editar" value="name:id;datatype:int,name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string" />
+	<infoitem key="UD_edt" value="name:id;datatype:int,name:tarea;datatype:blob,name:fecha_ini;datatype:date,name:fecha;datatype:date,name:estado;datatype:string" />
+</info>

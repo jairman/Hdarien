@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_clientes_conc" value="name:cliente;datatype:string" />
+	<infoitem key="UD_emple" value="name:empleado;datatype:string" />
+	<infoitem key="UD_rs_clientes" value="name:id;datatype:int,name:cedula;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono;datatype:string,name:empresa;datatype:string,name:categ;datatype:string,name:dir;datatype:string,name:ciud;datatype:string,name:fax;datatype:string,name:mail;datatype:string,name:cel;datatype:string,name:comen;datatype:string" />
+	<infoitem key="UD_basc" value="name:id;datatype:int,name:id_vacuno;datatype:string,name:hierro;datatype:string,name:tipo_pesaje;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:respon;datatype:string,name:cmpes;datatype:string,name:hacien;datatype:string,name:comind;datatype:string" />
+	<infoitem key="UD_con_bas" value="name:bascula;datatype:string" />
+</info>

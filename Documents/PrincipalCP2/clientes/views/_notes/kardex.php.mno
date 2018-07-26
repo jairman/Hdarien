@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kar" value="name:id;datatype:int,name:cedula;datatype:string,name:nombre;datatype:string,name:telefono;datatype:string,name:cumple;datatype:date,name:categoria;datatype:string,name:contacto1;datatype:string,name:cargoc1;datatype:string,name:telefonoc1;datatype:string,name:mailc1;datatype:string,name:contacto2;datatype:string,name:cargoc2;datatype:string,name:telefonoc2;datatype:string,name:mailc2;datatype:string,name:dir;datatype:string,name:pais;datatype:string,name:ciudad;datatype:string,name:fax;datatype:string,name:mail;datatype:string,name:cel;datatype:string,name:comentario;datatype:string,name:cuenta;datatype:string,name:banco;datatype:string,name:formapago;datatype:string,name:periodopago;datatype:string,name:tipocuenta;datatype:string,name:forma;datatype:string,name:saldo_favor;datatype:real,name:user;datatype:string,name:tiemp;datatype:timestamp,name:delete;datatype:int" />
+</info>

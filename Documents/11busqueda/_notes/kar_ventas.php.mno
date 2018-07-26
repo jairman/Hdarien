@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ven" value="name:id;datatype:int,name:vacuno;datatype:string,name:peso;datatype:int,name:v_kilo;datatype:int,name:venta;datatype:int,name:fecha;datatype:date" />
+</info>

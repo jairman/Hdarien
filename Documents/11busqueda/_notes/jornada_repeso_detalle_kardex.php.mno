@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pss" value="name:id;datatype:int,name:id_vacuno;datatype:string,name:hierro;datatype:string,name:tipo_pesaje;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:respon;datatype:string,name:cmpes;datatype:string,name:hacien;datatype:string,name:comind;datatype:string" />
+	<infoitem key="UD_pes" value="name:id;datatype:int,name:id_vacuno;datatype:string,name:hierro;datatype:string,name:tipo_pesaje;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:respon;datatype:string,name:cmpes;datatype:string,name:hacien;datatype:string,name:comind;datatype:string" />
+</info>

@@ -1,0 +1,204 @@
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a:not(.btn) {
+  color: #0b779f;
+}
+a:not(.btn):hover {
+  color: #21b8ef;
+}
+body {
+  color: #666666;
+}
+body.bg {
+  background: #fff;
+}
+#sp-header-wrapper {
+  background: #fff;
+  height: 50px;
+  width: 100%;
+  border-bottom: 1px solid #e6e6e6;
+  z-index: 1001;
+}
+#sp-header-wrapper .logo {
+  background-image: url(../../images/presets/preset6/logo.png);
+}
+#sp-feature-wrapper {
+  background: #ffffff;
+}
+#sp-feature-wrapper a:not(.btn) {
+  color: #80d6f6;
+}
+#sp-feature-wrapper a:not(.btn):hover {
+  color: #dff5fd;
+}
+#sp-main-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#sp-main-menu ul.level-0 > li {
+  display: inline-block;
+  padding: 0;
+  position: relative;
+}
+#sp-main-menu ul.level-0 > li a {
+  color: #21b8ef;
+}
+#sp-main-menu ul.level-0 > li a .menu-desc {
+  color: #999;
+}
+#sp-main-menu ul.level-0 > li:hover,
+#sp-main-menu ul.level-0 > li.active {
+  border-top: 3px solid #21b8ef;
+}
+#sp-main-menu ul.level-0 > li:hover {
+  border-top: 3px solid #21b8ef;
+}
+.module.highlighted {
+  background: #3498DB;
+}
+.module.highlighted a {
+  color: #fff !important;
+}
+#sp-copyright-wrapper,
+#sp-footer-wrapper {
+  background: ;
+  color: #fff;
+  border-top: 1px solid #f2f2f2;
+}
+#sp-copyright-wrapper a:not(.btn),
+#sp-footer-wrapper a:not(.btn) {
+  color: #51c7f2;
+}
+#sp-copyright-wrapper a:not(.btn):hover,
+#sp-footer-wrapper a:not(.btn):hover {
+  color: #b0e6f9;
+}
+#sp-footer-wrapper {
+  border-top: 1px solid #f2f2f2;
+}
+#sp-footer-wrapper::after {
+  background: #ededed;
+}
+.sp-border {
+  border-top: 1px solid #f2f2f2;
+}
+.sp-border::after {
+  background: #ededed;
+}
+.btn-primary,
+button,
+input[type='submit'],
+input[type='button'],
+submit {
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+  background-color: #217aef;
+  background-image: -moz-linear-gradient(top,#2196ef,#2151ef);
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#2196ef),to(#2151ef));
+  background-image: -webkit-linear-gradient(top,#2196ef,#2151ef);
+  background-image: -o-linear-gradient(top,#2196ef,#2151ef);
+  background-image: linear-gradient(to bottom,#2196ef,#2151ef);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2195ee', endColorstr='#ff2050ef', GradientType=0);
+  border-color: #2151ef #2151ef #0d35b6;
+  border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+  *background-color: #2151ef;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled],
+button:hover,
+button:active,
+button.active,
+button.disabled,
+button[disabled],
+input[type='submit']:hover,
+input[type='submit']:active,
+input[type='submit'].active,
+input[type='submit'].disabled,
+input[type='submit'][disabled],
+input[type='button']:hover,
+input[type='button']:active,
+input[type='button'].active,
+input[type='button'].disabled,
+input[type='button'][disabled],
+submit:hover,
+submit:active,
+submit.active,
+submit.disabled,
+submit[disabled] {
+  color: #fff;
+  background-color: #2151ef;
+  *background-color: #1142e6;
+}
+.btn-primary:active,
+.btn-primary.active,
+button:active,
+button.active,
+input[type='submit']:active,
+input[type='submit'].active,
+input[type='button']:active,
+input[type='button'].active,
+submit:active,
+submit.active {
+  background-color: #0f3bce \9;
+}
+.backtotop {
+  background-color: #21b8ef;
+  width: 45px;
+  bottom: 30px;
+  right: 10px;
+  min-height: 45px;
+  overflow: hidden;
+  z-index: 403;
+  position: fixed;
+  display: block;
+  text-align: center;
+  color: white !important;
+  -webkit-border-radius: 45px;
+  -moz-border-radius: 45px;
+  border-radius: 45px;
+  -webkit-transition: all 0.7s ease-in-out 0s;
+  -moz-transition: all 0.7s ease-in-out 0s;
+  -o-transition: all 0.7s ease-in-out 0s;
+  transition: all 0.7s ease-in-out 0s;
+}
+.backtotop.hidden-top {
+  bottom: -100px;
+}
+.backtotop:hover {
+  background-color: #fff;
+}
+.backtotop i {
+  font-size: 24px;
+  line-height: 38px;
+}

@@ -1,0 +1,26 @@
+2.5.1
+- Bug Fix: Responsive Navigation
+
+2.5.2
+- Bug Fix: Responsive Layout
+
+2.5.3 + 2.5.4
+- NEW 5 module positions
+- NEW Parameter for box distance
+- CSS Bug Fixes
+- REMOVE Parameter Header image (there is also a module position)
+
+2.5.5
+- Bug Fix: 5th Argument
+
+2.5.6
+- Bug Fix: extern modules using jQuery
+
+2.5.7.
+- NEW custom.css
+- CHANGE loadblock
+
+3.0.0.
+- Joomla 3.1 compatible
+- NEW Bootstrap
+- NEW hide content by using "hide-content" as page-class

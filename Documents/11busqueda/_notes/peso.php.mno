@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cone_vacunas" value="name:vacuna;datatype:string" />
+	<infoitem key="UD_peso" value="name:id;datatype:int,name:tipo_pesaje;datatype:string" />
+	<infoitem key="UD_hierro" value="name:id;datatype:int,name:hierro;datatype:string,name:comentarios;datatype:blob" />
+	<infoitem key="UD_dias" value="name:id;datatype:int,name:dias;datatype:int" />
+	<infoitem key="UD_meses" value="name:id;datatype:int,name:meses;datatype:int" />
+</info>

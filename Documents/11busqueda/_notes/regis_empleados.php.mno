@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fn" value="name:id;datatype:int,name:funcion;datatype:string" />
+	<infoitem key="UD_hd" value="name:hacienda;datatype:string" />
+	<infoitem key="UD_em" value="name:id;datatype:int,name:cedula;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:funcion;datatype:string,name:sueldo;datatype:int,name:s_total;datatype:int,name:bonifi;datatype:int,name:hacienda;datatype:string,name:fecha;datatype:date,name:pago;datatype:string,name:tel;datatype:string,name:mail;datatype:string" />
+	<infoitem key="UD_dia" value="name:dias;datatype:int" />
+	<infoitem key="UD_mes" value="name:meses;datatype:int" />
+	<infoitem key="UD_anos" value="name:anos;datatype:int" />
+</info>

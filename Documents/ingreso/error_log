@@ -1,0 +1,1 @@
+[03-Dec-2013 15:25:45 America/Detroit] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, null given in /home/solucion/public_html/saga/11busqueda/ingreso/kardex.php on line 188

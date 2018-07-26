@@ -1,0 +1,531 @@
+/* 	
+---------------------------
+Con los siguientes Selectores no hay que hacer nada en el html
+ya que se le asigna directamente a los elementos html
+---------------------------
+*/
+/*Selector para darle propiedades al body*/
+body{
+	font: 12px "Trebuchet MS", Helvetica, sans-serif !important;
+	/*font-family:Arial;
+	font-size:12px;*/
+	margin-top:5px;
+}
+/*Selector para darle propiedades a la Tabla*/
+table{ 
+	margin-left: auto;
+	margin-right: auto;
+}
+/*Selector para darle propiedades a la primera fila de una tabla*/
+tr:first-child {
+	border-top:3px solid rgba(0, 0, 0, 0,3);
+	border-opacity:0.9;
+	height:20px;
+}
+/*Selector para darle propiedades a todos los 'td' de una tabla*/
+td{	
+	height:20px !important;
+	vertical-align:middle;
+}
+/*Selector para darle propiedades a todos los 'th' de una tabla*/
+th{	
+	height:20px !important;
+	vertical-align:middle;
+}
+/*Selector para darle propiedades a todos los 'tr' de una tabla*/
+tr{
+	/*margin:5px;*/
+	border-bottom: 3px solid rgba(0, 0, 0, 0);	
+}
+
+form.form1 fieldset {
+    border: none;
+    border-top: 1px solid #C9DCA6;
+    background-color: #F8FDEF;
+}
+
+form.form1 fieldset fieldset {
+    background: none;
+}
+form.form1 label.error, label.error {
+    /* remove the next line when you have trouble in IE6 with labels in list */
+    color: red;
+    font-family:Arial;
+    font-size:12px;
+	font-style:italic;
+}
+div.error { display: none; }
+input.checkbox { border: none }
+input:focus { border: 1px dotted black; }
+input.error { border: 1px dotted red; }
+
+/*Selector para darle propiedades a los text fields*/
+input[type=text]{
+	border:1px solid #aaa;
+	box-shadow: 1px 2px 0px #ccc, 0 10px 15px #eee inset;
+	border-radius:6px;
+	height:18px;
+	padding-left:10px;
+	/*padding-right:30px;*/
+	/*width:85%*/
+}
+/*Selector para darle propiedades a los selects*/
+select{
+	border:1px solid #aaa;
+	box-shadow: 1px 2px 0px #ccc, 0 10px 15px #eee inset;
+	border-radius:6px;
+	/*width:18px;*/
+	padding-left:10px;
+	/*width:85%*/
+}
+/*Selector para darle propiedades a los select en focus*/
+select:focus{
+	background: #fff; 
+	border:1px solid #555; 
+	box-shadow: 0 0 3px #aaa; 
+	/*padding-right:70px;*/
+}
+/*Selector para darle propiedades a los select cuando estan deshabilitados*/
+select:disabled{
+	background: #f2f2f2; 
+	border:1px solid #555; 
+	box-shadow: 0 0 3px #aaa; 
+	/*padding-right:70px;*/
+}
+/*Selector para darle propiedades a los text field en focus*/
+input[type=text]:focus{
+	background: #FFF; 
+	border:1px solid #DBB2AD ; 
+	box-shadow: 0 0 3px #aaa; 
+	/*padding-right:70px;*/
+}
+/*Selector para darle propiedades a los text field cuando estan deshabilitados*/
+input[type=text]:disabled{
+	background: #f2f2f2; 
+	border:1px solid #555; 
+	box-shadow: 0 0 3px #aaa; 
+	/*padding-right:70px;*/
+}
+/*Selector para darle propiedades a los text field cuando son de solo lectura*/
+input[readonly]{
+	background: #ebebeb; 
+	border:1px solid #555; 
+	box-shadow: 0 0 3px #aaa; 
+	/*padding-right:70px;*/
+}
+
+*:focus {outline: none;}
+/*Selector para cambiarle el tampaño de la letra a los dialogs*/
+#dialog{
+	font-size:16px;
+	font-weight:bold
+}
+#dialog2{
+	font-size:16px;
+	font-weight:bold
+}
+span.ui-dialog-title{
+	font-size:18px;
+	font-weight:bold
+}
+/*Selector para el estilo del autocomplete*/
+.ui-autocomplete {	
+    font-family: Arial;
+    font-size:12px;
+}
+#overlay {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    z-index:50;
+	display:none;
+}
+
+/* 	
+---------------------------
+Con los siguientes Selectores hay que asignarlos a los elementos 
+agregandole la clase apropiada a cada elemento
+---------------------------
+*/
+
+/*
+-------------------
+La clase 'row' se asigna al 'tr' de cada fila, y se usa para mostrar las filas como una sola
+asignale las propiedades en hover/focus y adicionalmente agregarle la manito cuando se esta sobre el elemento
+-------------------
+*/
+.row:nth-child(2n){
+	border-bottom: 1px #D9D9D9 solid;
+/*	border:1px solid black;*/
+	font-size:14px;
+	height:18px;
+	vertical-align:central;
+}
+.row:nth-child(2n+1){
+	background: #eeeeee;
+	border-bottom: 1px #D9D9D9 solid;
+	/*border:1px solid black;*/
+	font-size:14px;
+	height:18px;
+	vertical-align:central;
+}
+.row:hover {
+	background: #a7d6ef;
+	color: #000;
+	cursor: pointer;
+}
+
+/*
+-------------------
+la clase big se le pone a los elementos que queremos con un tamaño mas grande
+-------------------
+*/
+.big{
+	font-size:16px;
+}
+/*
+-------------------
+Selector para darle longitud a los inputs
+-------------------
+*/
+.long{
+	width:98%;
+}
+
+img{
+	padding: 2px;
+}
+/*
+-------------------
+la clase name se usa para el nombre del producto
+-------------------
+*/
+.name{
+	font-size:24px;
+	font-weight:bold;
+	vertical-align:text-bottom;
+}
+
+/*
+-------------------
+Selector para el estilo de las filas principales Azul oscura
+-------------------
+*/
+.tittle{
+	background:#2089c2;
+	background:-o-linear-gradient(bottom, #1C7AAC 5%, #39a3db 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1C7AAC), color-stop(1, #39a3db) );
+	background:-moz-linear-gradient( center top, #1C7AAC 5%, #39a3db 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#1C7AAC", endColorstr="#39a3db");		
+	background: -o-linear-gradient(top,#1C7AAC,#39a3db);
+
+	background-color:#2089c2;
+	border:0px solid #999999;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-weight:bold;
+	color: white;
+	font-size:16px;
+	padding:5px, 10px;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	height:35px;
+	vertical-align:middle;
+	border-bottom:2px solid white;
+}
+
+.stittle{
+	background:#3694c8;
+	background:-o-linear-gradient(bottom, #3694c8 5%, #79b8da 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3694c8), color-stop(1, #79b8da) );
+	background:-moz-linear-gradient( center top, #3694c8 5%, #79b8da 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3694c8", endColorstr="#79b8da");		
+	background: -o-linear-gradient(top,#3694c8,#79b8da);
+
+	background-color:#3694c8;
+	border:0px solid #999999;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-weight:bold;
+	color: white;
+	font-size:14px;
+	padding:5px, 10px;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	height:20px;
+	vertical-align:middle;
+	border-bottom:2px solid white;
+}
+.tittle2{
+	background:-o-linear-gradient(bottom, #fff 5%, #ccc 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fff), color-stop(1, #ccc) );
+	background:-moz-linear-gradient( center top, #fff 5%, #0a2459 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#fff", endColorstr="#ccc");		
+	background: -o-linear-gradient(top,#fff,#ccc);
+
+	background-color:#FFF;
+	border:0px solid #999999;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-weight:bold;
+	color:#000;
+	height:35px;
+	vertical-align:middle;
+	border-bottom:2px solid white;
+}
+.red{
+	font-size:16px;
+	color:red;
+}
+.res{
+	color:#CCCC00;
+	font-size:18px
+}
+.subtitle{
+	font-style:italic;
+	font-size:14px;
+	font-weight:bold}
+.subtitle2{
+	font-style:italic;
+	font-size:14px;
+}
+/*Selector para el estilo de las celdas con texto azul Claro*/
+.bold2{
+	font-weight:bold;
+	padding:3px 15px 3px 15px ;
+	background-color: #0CF ;
+	border-bottom:2px solid #2f2f2f;
+	color: #222222;
+}
+.bold{
+	font-weight:bold;
+	padding:3px 15px 3px 15px ;
+	background-color: #D9D9D9 ;
+	border-bottom:2px solid #2f2f2f;
+	color: #222222;
+}
+/*Selector para el estilo de las celdas con imputs*/
+.cont{
+	padding:3px 15px 3px 15px;
+}
+/*Selector para */
+.ext {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight:bold;
+	color: #ffffff;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	padding: 5px 10px;
+	
+	background:#1C7AAC;
+	background:-o-linear-gradient(bottom, #1C7AAC 5%, #39a3db 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #1C7AAC), color-stop(1, #39a3db) );
+	background:-moz-linear-gradient( center top, #1C7AAC 5%, #39a3db 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#1C7AAC", endColorstr="#39a3db");		
+	background: -o-linear-gradient(top,#1C7AAC,#39a3db);
+
+	background-color:#1C7AAC;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #1f2a4a;
+	-moz-box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+	cursor:pointer;
+} 
+/*boton cuando estoy sobre el */
+.ext:hover{
+	font-family: Arial;
+	font-size: 14px;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	color: #ffffff;
+	padding: 5px 10px;
+	background:#3694c8;
+	background:-o-linear-gradient(bottom, #3694c8 5%, #79b8da 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3694c8), color-stop(1, #79b8da) );
+	background:-moz-linear-gradient( center top, #3694c8 5%, #79b8da 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3694c8", endColorstr="#79b8da");		
+	background: -o-linear-gradient(top,#3694c8,#79b8da);
+
+	background-color:#3694c8;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #1f2a4a;
+	-moz-box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	box-shadow:
+		0px 1px 3px rgba(31,42,74,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+	cursor:pointer;
+}
+
+.inner {
+	font-family: Arial;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 5px 10px;
+	background:-o-linear-gradient(bottom, #4d68a2 5%, #0a2459 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4d68a2), color-stop(1, #0a2459) );
+	background:-moz-linear-gradient( center top, #4d68a2 5%, #0a2459 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4d68a2", endColorstr="#0a2459");		
+	background: -o-linear-gradient(top,#4d68a2,0a2459);
+	background-color:#4d68a2;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b8c4e6;
+	-moz-box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+	cursor:pointer;
+}
+.inner:hover {
+	font-family: Arial;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 5px 10px;
+	background:-o-linear-gradient(
+		bottom, 
+		#4d68a2 50%, 
+		#0a2459 90%);	
+	background:-webkit-gradient( 
+		linear, 
+		left top, 
+		left bottom, 
+		color-stop(0.5, #4d68a2), 
+		color-stop(0.9, #0a2459) );
+	background:-moz-linear-gradient( 
+		center top, 
+		#4d68a2 50%, 
+		#0a2459 90% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#4d68a2", endColorstr="#0a2459");		
+	background: -o-linear-gradient(top,#4d68a2,0a2459);
+	background-color:#4d68a2;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #b8c4e6;
+	-moz-box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	box-shadow:
+		0px 1px 3px rgba(031,042,074,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.6);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.2);
+	cursor:pointer;
+}
+
+/* MENU */
+#menu { margin:10px 0 0 10px; }
+#menu ul { list-style:none; }
+#menu ul li { display:inline; float:left; margin-bottom:20px; }
+
+/* :first-child pseudo selector with rounded top left corner */
+#menu ul li:first-child a { 
+	-moz-border-radius-topleft: 12px; 
+	-webkit-border-top-left-radius:12px; 
+}
+
+/* :last-child pseudo selector with rounded top right corner */
+#menu ul li:last-child a { 
+	-moz-border-radius-topright: 12px; 
+	-webkit-border-top-right-radius:12px; 
+}
+
+/* background color set to RGBA, with opacity on 0.3 and also using text-shadow */
+#menu ul li a { 
+	padding:15px; 
+	background: rgba(10,36,89,0.8); 
+	text-decoration: none; 
+	font: 12px Arial; 
+	letter-spacing: 0px; 
+	color: #fff;
+	text-shadow: #000 0px 0px 2px; 
+}
+	
+/* hover state shows a linear gradient and opacity it brought down to 0.9 and also shows a very slight grey gradient on top */
+#menu ul li a:hover { 
+	-moz-box-shadow: 0 -5px 10px #777; 
+	-webkit-box-shadow: 0 -5px 10px #777;
+	background: -webkit-gradient(
+		linear, 
+		right bottom, 
+		left top, 
+		color-stop(0, #4d68a2), 
+		color-stop(0.72, #0a2459)) !important;
+	background: -moz-linear-gradient(
+		right bottom, 
+		#4d68a2 0%, 
+		#0a2459 72%) !important;
+	background-color:rgb(255,173,10) !important;
+	-moz-opacity:.90; 
+	filter:alpha(opacity=90); 
+	opacity:.90; 
+	font-weight:bold;
+	color:#fff;
+}
+
+/* another RGBA background, now with an opacity of 0.8 */
+#menu ul li a.active { 
+	background: rgba(77,104,162,0.1) !important;
+	color:#000; 
+	text-shadow: #fff 0px 0px 2px; 
+}
+
+#main { clear:both; 
+	background: rgba(77,104,162,0.1); 
+	/*width:500px; 
+	/*margin-left:150px;*/
+	-moz-border-radius-topleft: 12px;
+	-moz-border-radius-topright: 12px; 
+	-moz-border-radius-bottomright: 12px; 
+	-moz-border-radius-bottomleft: 12px;
+	-webkit-border-top-left-radius:12px; 
+	-webkit-border-top-right-radius:12px; 
+	-webkit-border-bottom-right-radius:12px; 
+	-webkit-border-bottom-left-radius:12px;
+	margin-left:3%;
+	margin-right:3%;
+}
+
+
+
+
+
+

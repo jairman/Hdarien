@@ -1,0 +1,4 @@
+[16-Jan-2014 16:04:36 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/saga/11busqueda/caja/dia_dia_pendiente.php on line 68
+[16-Jan-2014 16:04:36 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/saga/11busqueda/caja/dia_dia_pendiente.php on line 172
+[16-Jan-2014 16:04:36 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/saga/11busqueda/caja/dia_dia_pendiente.php on line 172
+[16-Jan-2014 16:04:36 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/saga/11busqueda/caja/dia_dia_pendiente.php on line 172

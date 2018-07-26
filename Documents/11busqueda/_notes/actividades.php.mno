@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vacunasion" value="name:id;datatype:int,name:id_vacuno;datatype:int,name:jornada;datatype:string,name:diagnostico;datatype:string,name:tratamiento;datatype:string,name:observasion;datatype:blob,name:fecha;datatype:date" />
+	<infoitem key="UD_busjornada" value="name:id;datatype:int,name:id_vacuno;datatype:int,name:jornada;datatype:string,name:diagnostico;datatype:string,name:tratamiento;datatype:string,name:observasion;datatype:blob,name:fecha;datatype:date" />
+	<infoitem key="UD_jornada" value="name:id;datatype:int,name:id_vacuno;datatype:int,name:jornada;datatype:string,name:diagnostico;datatype:string,name:tratamiento;datatype:string,name:observasion;datatype:blob,name:fecha;datatype:date" />
+</info>

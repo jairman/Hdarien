@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt" value="name:madre;datatype:string,name:padre;datatype:string,name:fecha_parto;datatype:date,name:sexo;datatype:string,name:n_cria;datatype:string,name:inter_parto;datatype:string,name:peso_nacimiento;datatype:int,name:observaciones;datatype:blob" />
+	<infoitem key="UD_dtt" value="name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+	<infoitem key="UD_pajus" value="name:vacuno;datatype:string,name:tipo_peso;datatype:string,name:indice;datatype:string,name:madre;datatype:string" />
+</info>

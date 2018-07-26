@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_f_destino" value="name:hacienda;datatype:string" />
+	<infoitem key="UD_f_actual" value="name:ubicasion;datatype:string" />
+	<infoitem key="UD_dias" value="name:id;datatype:int,name:dias;datatype:int" />
+	<infoitem key="UD_meses" value="name:id;datatype:int,name:meses;datatype:int" />
+</info>

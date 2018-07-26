@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sem" value="name:id;datatype:int,name:id_vacuno;datatype:string,name:raza;datatype:string,name:color;datatype:string,name:clasificasion;datatype:string,name:observasiones;datatype:blob,name:registro;datatype:string,name:edad;datatype:int,name:nomb;datatype:string,name:tp_rep;datatype:string,name:user;datatype:string,name:tiem;datatype:timestamp,name:delete;datatype:int" />
+</info>

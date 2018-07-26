@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pal" value="name:id;datatype:int,name:vaca;datatype:string,name:f_palpa;datatype:date,name:estado;datatype:string,name:resp;datatype:string,name:hda;datatype:string,name:jornd;datatype:date,name:cmpal;datatype:string,name:es;datatype:int,name:coment_pal;datatype:string" />
+</info>

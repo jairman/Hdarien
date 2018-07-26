@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_mdc" value="name:id;datatype:int,name:tipo;datatype:string,name:nombre;datatype:string,name:descrip;datatype:string,name:coment;datatype:string,name:cont;datatype:string,name:mark;datatype:string,name:m_uso;datatype:blob,name:p_act;datatype:string,name:admin;datatype:string,name:cantid;datatype:int,name:dosis;datatype:int,name:concep;datatype:string" />
+</info>

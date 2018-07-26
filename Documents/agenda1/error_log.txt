@@ -1,0 +1,34 @@
+[18-Nov-2013 16:49:20] PHP Warning:  require_once(Connections/conexion.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\xampp\htdocs\saga\agenda\index_hh.php on line 153
+[18-Nov-2013 16:49:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Connections/conexion.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\saga\agenda\index_hh.php on line 153
+[18-Nov-2013 16:50:47] PHP Warning:  require_once(Connections/conexion.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\xampp\htdocs\saga\agenda\index_hh.php on line 153
+[18-Nov-2013 16:50:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Connections/conexion.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\saga\agenda\index_hh.php on line 153
+[18-Nov-2013 17:53:30] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 17:53:30] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 17:53:54] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 17:53:54] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 17:54:44] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 17:54:44] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 17:58:43] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 17:58:43] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 18:03:53] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 18:03:53] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 18:05:19] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 18:05:19] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 18:05:20] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 18:05:20] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[18-Nov-2013 18:05:21] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 174
+[18-Nov-2013 18:05:21] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 191
+[20-Nov-2013 20:41:53] PHP Notice:  Undefined variable: row_pen in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 20:41:53] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 20:46:10] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 20:49:30] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 20:49:34] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 20:50:20] PHP Notice:  Undefined variable: fecha in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 356
+[20-Nov-2013 22:28:29] PHP Notice:  Undefined variable: row_tar in C:\xampp\htdocs\saga\11busqueda\agenda\index_h.php on line 86
+[20-Nov-2013 22:30:44] PHP Notice:  Undefined variable: row_tar in C:\xampp\htdocs\saga\11busqueda\agenda\index_h.php on line 86
+[20-Nov-2013 22:30:45] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 184
+[20-Nov-2013 22:30:45] PHP Warning:  mktime() expects parameter 6 to be long, string given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 190
+[20-Nov-2013 22:30:45] PHP Warning:  mktime() expects parameter 6 to be long, string given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 300
+[20-Nov-2013 22:30:45] PHP Warning:  mktime() expects parameter 6 to be long, string given in C:\xampp\htdocs\saga\11busqueda\agenda\index_hh.php on line 301
+[23-Jul-2014 20:22:56 Europe/Berlin] PHP Notice:  Undefined variable: usuario2 in C:\xampp\htdocs\administrativo\Documents\agenda\index_h.php on line 135
+[29-Jul-2014 19:10:42 Europe/Berlin] PHP Notice:  Undefined variable: usuario2 in C:\xampp\htdocs\administrativo\Documents\agenda\index_h.php on line 135

@@ -1,0 +1,206 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../img/bg.gif) #555 fixed repeat-x left top; PADDING-BOTTOM: 0px; MARGIN: 15px; COLOR: #fff; PADDING-TOP: 0px
+}
+A {
+	TEXT-DECORATION: none
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+H1 {
+	FONT-SIZE: 24px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 2px; PADDING-TOP: 0px; text-shadow: black 1px 1px 1px
+}
+H2 {
+	FONT-SIZE: 20px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 2px; PADDING-TOP: 0px; text-shadow: black 1px 1px 1px
+}
+div.markerTooltip {
+    color: black;
+    background-color: white;
+    white-space: nowrap;
+    margin: 0;
+    padding: 2px 4px;
+    border: 1px solid black;
+    z-index: 500000;
+    font-size: 10px;
+}
+div.markerDetail {
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    white-space: nowrap;
+    margin: 0;
+    padding: 2px 4px;
+    border: 1px solid black;
+    z-index: 500000;
+}
+
+#map {
+    FLOAT=center;
+	PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 2em 0px 0px;
+    COLOR: #000;
+    PADDING-TOP: 0px
+}
+
+#container {
+	FONT-SIZE: 11px; MARGIN: 5px auto; WIDTH: 800px; COLOR: #fff; FONT-FAMILY: "Trebuchet MS", verdana, sans-serif; BACKGROUND-COLOR: #777777; moz-border-radius: 8px; border-radius: 8px
+}
+#container BLOCKQUOTE {
+	PADDING-LEFT: 20px; MARGIN: 15px 30px 5px 10px; BORDER-LEFT: #aaa 5px solid
+}
+#container A {
+	/*COLOR: #bfee31*/
+    COLOR: #E58712
+}
+#container #header {
+	MARGIN: 0px 0px 15px
+}
+#container #header #logo {
+	MARGIN: 12px 0px 0px 12px
+}
+#container #header #name {
+	DISPLAY: none
+}
+#container #header #menu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 12px; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px dotted
+}
+#container #header #menu UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#container #header #menu UL LI {
+	DISPLAY: inline; MARGIN: 0px 8px 0px 0px
+}
+#container #footer {
+	CLEAR: both; MARGIN: 60px 0px 0px
+}
+#container #footer UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#container #footer UL LI {
+	DISPLAY: inline; MARGIN: 0px 8px 0px 0px
+}
+#container #footer .links {
+	PADDING-RIGHT: 0px; BORDER-TOP: #999 1px dotted; PADDING-LEFT: 0px; PADDING-BOTTOM: 6px; MARGIN: 0px 12px; PADDING-TOP: 8px
+}
+#container #footer .links #right {
+	FLOAT: right
+}
+#page_footer {
+	CLEAR: both; FONT-SIZE: 11px; MARGIN: 12px auto; WIDTH: auto; COLOR: #fff; FONT-FAMILY: "Trebuchet MS", verdana, sans-serif; TEXT-ALIGN: center
+}
+#page_footer #copyright {
+	DISPLAY: none
+}
+#page_footer A {
+	COLOR: #b0b0b0; TEXT-DECORATION: none
+}
+#page_footer A:hover {
+	COLOR: #999999
+}
+A:active {
+	COLOR: #999999
+}
+#page_footer DIV {
+	MARGIN: 1px
+}
+#page_footer .links UL {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#page_footer .links UL LI {
+	DISPLAY: inline; MARGIN: 2px; LIST-STYLE-TYPE: none
+}
+.form {
+	BORDER-BOTTOM: #888888 1px dashed
+}
+#infowindow {
+	COLOR: #333333
+}
+#container #layout1 {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#container #layout1 #title {
+	MARGIN: 0px 0px 5px 30px
+}
+#container #layout1 #cuerpo1 {
+	MARGIN: 0px 30px
+}
+#container #layout1 #cuerpo1 #column1 {
+	MARGIN: 0px 0px 20px; WIDTH: auto; LINE-HEIGHT: 1.6em; TEXT-ALIGN: justify
+}
+#container #layout1 #cuerpo1 #column2 {
+	FLOAT: right; MARGIN: 0px 0px 5px 10px
+}
+#container #layout1 #cuerpo1 .post {
+	MARGIN: 0px 0px 30px; WIDTH: auto
+}
+#container #layout1 #cuerpo1 .post .content {
+	LINE-HEIGHT: 1.6em; TEXT-ALIGN: justify
+}
+#container #layout1 #cuerpo1 .post .date {
+	FONT-SIZE: 10px; COLOR: #aaa; LINE-HEIGHT: normal
+}
+#container #layout1 #cuerpo1 .post .vineta {
+	MARGIN: 5px auto 0px; WIDTH: 50px
+}
+#container #layout2 {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#container #layout2 #title {
+	MARGIN: 0px 0px 5px 30px
+}
+#container #layout2 #cuerpo1 {
+	MARGIN: 0px 30px 30px
+}
+#container #layout2 #cuerpo1 .folder {
+	CLEAR: both; DISPLAY: block
+}
+#container #layout2 #cuerpo1 .folder .title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px 15px; PADDING-TOP: 0px; BORDER-BOTTOM: #999 1px dotted
+}
+#container #layout2 #cuerpo1 .folder .description {
+	WIDTH: auto; LINE-HEIGHT: 1.6em; TEXT-ALIGN: justify
+}
+#container #layout2 #cuerpo1 .folder .thumbs {
+	MARGIN: 0px 0px 0px -40px
+}
+#container #layout2 #cuerpo1 .folder .thumbs IMG:hover {
+	BORDER-RIGHT: #fff 4px solid; BORDER-TOP: #fff 4px solid; BORDER-LEFT: #fff 4px solid; BORDER-BOTTOM: #fff 4px solid
+}
+#container #layout3 {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#container #layout3 #cuerpo1 {
+	MARGIN: 0px 30px 30px
+}
+#container #layout3 #title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 5px 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #999 1px dotted
+}
+#container #layout3 #nav {
+	CLEAR: both; FLOAT: right
+}
+#container #layout3 #cuerpo1 #map {
+	BORDER-RIGHT: #fff 5px solid; PADDING-RIGHT: 0px; BORDER-TOP: #fff 5px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #fff 5px solid; WIDTH: 690px; PADDING-TOP: 0px; BORDER-BOTTOM: #fff 5px solid; HEIGHT: 510px
+}
+#container #layout3 #cuerpo1 .picture {
+	CLEAR: both; MARGIN: 0px; BORDER-BOTTOM: #999 1px dotted
+}
+input, select, textarea {
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+}
+textarea, input {
+	background: #FFF url("../img/form.input.gif") repeat-x left top;
+	border: 1px solid #333;
+	padding: 2px;
+}
+input.button {
+	font-weight: bold;
+	font-size: 11px;
+	font-family: Arial, Helvetica;
+	height: 24px;
+	width: 180px;
+	background: url("../img/bg.button.gif") repeat-x left top;
+	padding: 0px;
+}

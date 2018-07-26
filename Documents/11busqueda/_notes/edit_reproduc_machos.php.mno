@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hm" value="name:id_vacuno;datatype:string,name:raza;datatype:string,name:madre;datatype:string,name:hierro;datatype:string,name:clase;datatype:string,name:ubicasion;datatype:string,name:reprd;datatype:string,name:tp_rep;datatype:string,name:edad;datatype:int,name:sexo;datatype:string" />
+</info>

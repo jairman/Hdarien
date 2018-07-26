@@ -1,0 +1,169 @@
+/**
+ * PRI Blog - Free Responsive Joomla! Blog Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+
+//module variation
+.module {
+	margin-top:20px;
+	padding:20px;
+	transition:all 500ms ease;
+	border-radius:5px;
+	z-index:1;
+	&:first-child{
+		margin-top:0;
+	}
+	h3 {
+		font-size:24px;
+		font-weight:400;
+		margin:0 0 10px 0;
+		line-height:normal;
+	}
+	
+	&.highlighted,
+	&.orange,
+	&.dark,
+	&.green,
+	&.maroon,
+	&.blue,
+	&.gray,
+	&.pink,
+	&.red {
+		h3 {
+			padding:0 0 10px 0;
+			border-bottom:1px dashed @white;
+			color:@white;
+		}
+		padding:20px;
+		color:@white;
+		.border-radius(2px);
+		.box-shadow(0px 1px 2px rgba(0,0,0,.5) inset);
+	}
+	&.highlighted {
+		background:fade(#3498DB,50%) !important;
+		&:hover{
+			background:#3498DB !important;
+		}
+		a{
+		 color:#B4300D;
+			 
+		&:hover{
+			   color:#C93F19;
+			   }
+		}
+	}
+	
+	&.orange {
+		background:fade(@orange,50%);
+		&:hover{
+			background:@orange;
+		}
+		a{
+		 color:#B66B00;
+			 
+		&:hover{
+			   color:#6F4100;
+			   }
+		}
+	}
+	
+	&.dark {
+		background:fade(@black,50%);
+		&:hover{
+			background:@black;
+		}
+		a{
+		 color:#777;
+			 
+		&:hover{
+			   color:#888;
+			   }
+		}
+	}
+	&.green {
+		background:fade(@green,50%);
+		&:hover{
+			background:@green;
+		}
+		a{
+		 color:#63E063;
+			 
+		&:hover{
+			   color:#43F043;
+			   }
+		}
+	}
+	&.maroon {
+		background:fade(#F35D34,50%);
+		&:hover{
+			background:#F35D34;
+		}
+		a{
+		 color:#B4300D;
+			 
+		&:hover{
+			   color:#C93F19;
+			   }
+		}
+	}
+	&.blue {
+		background:fade(@blue,50%);
+		&:hover{
+			background:@blue;
+		}
+		a{
+		 color:#47C9FF;
+			 
+		&:hover{
+			   color:#0073A3;
+			   }
+		}
+	}
+	&.gray {
+		background:fade(@gray,50%);
+		&:hover{
+			background:@gray;
+		}
+		a{
+		 color:#999;
+			 
+		&:hover{
+			   color:#777;
+			   }
+		}
+	}
+	&.pink {
+		background:fade(@pink,50%);
+		&:hover{
+			background:@pink;
+		}
+		a{
+		 color:#FF5C8F;
+			 
+		&:hover{
+			color:#FA2E6E;
+		   }
+		}
+	}
+	&.red {
+		background:fade(@red,50%);
+		&:hover{
+			background:@red;
+		}
+		a{
+		 color:#EE4538;
+			 
+		&:hover{
+			   color:#DA3F33;
+			   }
+		}
+	}
+}

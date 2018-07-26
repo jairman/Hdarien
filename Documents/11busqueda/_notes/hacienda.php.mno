@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hacienda" value="name:empresa;datatype:string,name:nit;datatype:int,name:telefono;datatype:int,name:hacienda;datatype:string,name:departamento;datatype:string,name:municipio;datatype:string,name:extension;datatype:int,name:latitud;datatype:blob,name:longitud;datatype:blob,name:temperatura;datatype:int" />
+	<infoitem key="UD_empre" value="name:empresa;datatype:string,name:nit;datatype:string,name:telefono;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lista" value="name:id;datatype:int,name:nombre;datatype:string,name:cedula;datatype:string,name:nacimiento;datatype:string,name:civil;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:celular;datatype:string,name:mail;datatype:string,name:eps;datatype:string,name:pensiones;datatype:string,name:arp;datatype:string,name:referencia;datatype:string,name:tel_ref;datatype:string,name:fecha_ingreso;datatype:string,name:cargo;datatype:string,name:lugar_trabajo;datatype:string,name:salario;datatype:string,name:tipo_contrato;datatype:string,name:fecha_terminacion_contrato;datatype:string,name:funciones;datatype:string,name:area_trabajo;datatype:string,name:anotaciones;datatype:string" />
+</info>

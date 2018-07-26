@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pen" value="name:id;datatype:int,name:concep;datatype:string,name:descrip;datatype:string,name:estado;datatype:string,name:cantid;datatype:int,name:v_unit;datatype:int,name:v_tal;datatype:int,name:fecha;datatype:date,name:cliente;datatype:string,name:cel_client;datatype:string,name:cel_prove;datatype:string,name:f_alarma;datatype:date,name:factura;datatype:int" />
+</info>

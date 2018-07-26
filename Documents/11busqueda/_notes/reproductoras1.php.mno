@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dia" value="name:id;datatype:int,name:dias;datatype:int" />
+	<infoitem key="UD_meses" value="name:id;datatype:int,name:meses;datatype:int" />
+	<infoitem key="UD_vac" value="name:madre;datatype:string,name:padre;datatype:string,name:fecha_parto;datatype:date,name:sexo;datatype:string,name:n_cria;datatype:string,name:inter_parto;datatype:string,name:peso_nacimiento;datatype:int,name:observaciones;datatype:blob" />
+	<infoitem key="UD_dtt" value="name:peso;datatype:int,name:fecha;datatype:date" />
+</info>

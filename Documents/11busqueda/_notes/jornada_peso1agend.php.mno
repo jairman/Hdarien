@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vcn" value="name:jpeso;datatype:date,name:hierro;datatype:string,name:cmpes;datatype:string,name:respes;datatype:string,name:tipo_pes;datatype:string,name:ubicasion;datatype:string" />
+</info>

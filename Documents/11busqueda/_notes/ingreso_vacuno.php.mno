@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hierro" value="name:id;datatype:int,name:hierro;datatype:string,name:comentarios;datatype:blob" />
+	<infoitem key="UD_hda" value="name:hacienda;datatype:string" />
+	<infoitem key="UD_razas" value="name:id;datatype:int,name:raza;datatype:string" />
+	<infoitem key="UD_razas1" value="name:id;datatype:int,name:raza;datatype:string" />
+	<infoitem key="UD_Clasificacion" value="name:id;datatype:int,name:clasificacison;datatype:string" />
+	<infoitem key="UD_dia" value="name:id;datatype:int,name:dias;datatype:int" />
+	<infoitem key="UD_meses" value="name:id;datatype:int,name:meses;datatype:int" />
+</info>

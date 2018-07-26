@@ -1,0 +1,1097 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link	link - alternate"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"da",
+				"datosFicha"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"v",
+				"views/"
+			],
+			[
+				"age",
+				"agregarProcesos"
+			],
+			[
+				"id",
+				"IdCostoApx"
+			],
+			[
+				"ca",
+				"cantidad"
+			],
+			[
+				"dis",
+				"disponible"
+			],
+			[
+				"rem",
+				"removeChild"
+			],
+			[
+				"jso",
+				"json_id"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"no",
+				"nobackbutton"
+			],
+			[
+				"cone",
+				"conexion"
+			],
+			[
+				"carg",
+				"cargarMeses"
+			],
+			[
+				"sty",
+				"style	<style>"
+			],
+			[
+				"la",
+				"label	<label> with <input>"
+			],
+			[
+				"MYS",
+				"mysql_query"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"me",
+				"menu	<menu>"
+			],
+			[
+				"cod",
+				"codigo"
+			],
+			[
+				"regi",
+				"regitrarActividad"
+			],
+			[
+				"MOSTRAR",
+				"mostrarCalendario"
+			],
+			[
+				"ano",
+				"anof"
+			],
+			[
+				"f",
+				"ffin"
+			],
+			[
+				"for",
+				"formatearDate"
+			],
+			[
+				"mes",
+				"mesf"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"fec",
+				"fecha"
+			],
+			[
+				"lugar_r",
+				"lugar_re"
+			],
+			[
+				"punt",
+				"punto"
+			],
+			[
+				"h",
+				"hinicio"
+			],
+			[
+				"des",
+				"descripcion"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"hora",
+				"hora_fin"
+			],
+			[
+				"busca",
+				"buscarMes"
+			],
+			[
+				"va",
+				"validarHTML5"
+			],
+			[
+				"forma",
+				"formatearDate"
+			],
+			[
+				"D",
+				"DESC"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"order",
+				"ORDER"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"res",
+				"responsable"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"punto",
+				"punto_venta"
+			],
+			[
+				"pun",
+				"punto_venta"
+			],
+			[
+				"ha",
+				"hacienda"
+			],
+			[
+				"ult",
+				"ultimoDiaMes"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"buscarh",
+				"buscarHistorialEventos"
+			],
+			[
+				"a",
+				"actividad"
+			],
+			[
+				"mon",
+				"MONTH"
+			],
+			[
+				"llega",
+				"llegadaBuscarAnio"
+			],
+			[
+				"usuario",
+				"usuario2"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"hor",
+				"hora_ini"
+			],
+			[
+				"par",
+				"paramOrder"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"fecha_ac",
+				"fecha_actividad"
+			],
+			[
+				"enco",
+				"json_encode"
+			],
+			[
+				"FE",
+				"fecha_actividad"
+			],
+			[
+				"rol",
+				"roluser"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"sele",
+				"selected	Attr"
+			],
+			[
+				"ul",
+				"ultimo"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bu",
+				"buscarNotas"
+			],
+			[
+				"ce",
+				"cerrar"
+			],
+			[
+				"lis",
+				"listaActividades"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"ge",
+				"getMonth"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"IN",
+				"inline-block"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"mos",
+				"mostrarDialogo"
+			],
+			[
+				"mostrar",
+				"mostrarMes"
+			],
+			[
+				"calcula",
+				"calcularMes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"fecha_a",
+				"fecha_ac"
+			],
+			[
+				"apla",
+				"aplazarA"
+			],
+			[
+				"bus",
+				"buscarActividades"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"fo",
+				"formRegistrarA"
+			],
+			[
+				"fe",
+				"fecha_actividad"
+			],
+			[
+				"mo",
+				"modificarA"
+			],
+			[
+				"sig",
+				"siguiente"
+			],
+			[
+				"row",
+				"rowspan"
+			],
+			[
+				"i",
+				"important	!important"
+			],
+			[
+				"ver",
+				"verActividades"
+			],
+			[
+				"siguienteF",
+				"siguienteFecha"
+			],
+			[
+				"so",
+				"section"
+			],
+			[
+				"fecha",
+				"fecha_actividad"
+			],
+			[
+				"HORA",
+				"hora_ini"
+			],
+			[
+				"ac",
+				"actividad"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"obj",
+				"objFecha"
+			],
+			[
+				"contr",
+				"contadorDias"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"eve",
+				"eventos"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"anio",
+				"buscarAnio"
+			],
+			[
+				"si",
+				"siguiente"
+			],
+			[
+				"an",
+				"anterior"
+			],
+			[
+				"capa",
+				"capaDiasSemana"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"ob",
+				"objFecha"
+			],
+			[
+				"com",
+				"compuesta"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"inc",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"snippet:proje",
+				"Snippet: project_idsolutions"
+			],
+			[
+				"snippet:co",
+				"Snippet: bs3-col-10"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fect",
+				"Fetch: File"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fec",
+				"Fetch: Manage"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: <base>"
+			],
+			[
+				"sn",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"gene",
+				"Snippet: general"
+			],
+			[
+				"header",
+				"Snippet: <header>"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"boo",
+				"Snippet: boostrapCDN_3"
+			],
+			[
+				"FE",
+				"Fetch: Manage"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/xampp/htdocs/administrativo/Documents/produccion"
+	],
+	"file_history":
+	[
+		"/F/xampp/htdocs/administrativo/Documents/produccion/views/produccion.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/produccion.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/controllers/produr.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/controllers/controlador.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/views/listafichaTecnica.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/js/listaFichaTecnica.js",
+		"/F/xampp/htdocs/administrativo/Documents/css/style.css",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/css/css.css",
+		"/C/wamp/www/jquery/js/js.js",
+		"/F/xampp/htdocs/administrativo/Documents/compras/invent_psearch.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/reportes.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/calendar.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/repetidos.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/notificaciones.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/js/produccion.js",
+		"/F/xampp/htdocs/administrativo/Documents/compras/invent_prod.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/js/insumos_pro.js",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/js/procesos_pro.js",
+		"/F/reacticas/angular-phonecat/app/js/controllers.js",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/css/bootstrap.css",
+		"/F/descargas/descargas4/Example/Example/index.html",
+		"/F/descargas/descargas4/bootstrap/css/bootstrap.css",
+		"/F/descargas/descargas4/Example/Example/listadetareas.css",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/listaFichaTecnica.php",
+		"/F/descargas/descargas4/Example/Example/listadetareas.js",
+		"/F/descargas/descargas4/bootstrap-master/bootstrap-master/src/pagination/docs/demo.html",
+		"/F/descargas/descargas4/bootstrap-master/bootstrap-master/src/pagination/docs/demo.js",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/insumos_pro.js",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/views/calendario.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/js/calendario.js",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/views/repetidos.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/views/reportes.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/controllers/joom.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/calendario.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/pdf/PDF.class.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/pdf.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/views/acceso.php",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/calendar.php",
+		"/F/descargas/descargas4/php/config.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/produr.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/controlador.php",
+		"/F/xampp/htdocs/administrativo/configuration.php",
+		"/C/Users/fdvergara/Documents/agenda/js/calendario.js",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/controlador.php",
+		"/F/xampp/htdocs/administrativo/Documents/Connections/conexion.php",
+		"/F/xampp/htdocs/administrativo/Documents/compras/js/invent_prod.js",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/joom.php",
+		"/F/xampp/htdocs/administrativo/Documents/produccion/js/procesos_pro",
+		"/C/Users/fdvergara/AppData/Roaming/Sublime Text 3/Packages/User/project_idsolutions.sublime-snippet",
+		"/F/xampp/htdocs/administrativo/Documents/agenda/joom.php",
+		"/C/Users/fdvergara/AppData/Roaming/Sublime Text 3/Packages/User/project_idsolutions.sublime-snippet.sh",
+		"/F/wamp/www/Joomla/configuration.php",
+		"/F/wamp/www/administrativo/configuration.php",
+		"/F/wamp/www/administrativo/Documents/Connections/conexion.php",
+		"/F/wamp/www/administrativo/Documents/agenda/joom.php",
+		"/F/wamp/www/Joomla/plugins/quickicon/joomlaupdate/joomlaupdate.php",
+		"/F/wamp/www/Joomla/libraries/fof/render/joomla.php",
+		"/F/wamp/www/Joomla/plugins/user/joomla/joomla.php",
+		"/C/Users/fdvergara/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/wamp/www/calendario generico/agenda/fact_histo.php",
+		"/C/Users/fdvergara/Documents/recover.js",
+		"/F/reacticas/bootstrap/index.html",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/calendario.js",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/css.css",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/mostrar.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/controlador.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/calendario.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/printThis.js",
+		"/C/wamp/www/administrativo/Documents/Connections/conexion.php",
+		"/C/wamp/www/administrativo/configuration.php",
+		"/C/wamp/www/administrativo/index.php",
+		"/C/Users/fdvergara/Documents/agenda/css/css.css",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/fdvergara/Desktop/agenda/js/calendario.js",
+		"/C/Users/fdvergara/Downloads/fact_correo.php",
+		"/C/Users/fdvergara/Downloads/correo_notifi.php",
+		"/C/Users/fdvergara/Documents/notificaciones.php",
+		"/C/Users/fdvergara/Desktop/Nueva carpeta/agenda 1.0/agenda/js/calendario.js",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/joom.php",
+		"/C/wamp/www/calendario generico/agendar/agenda/calendar.php",
+		"/C/wamp/www/calendario generico/agendar/agenda/joom.php",
+		"/F/reacticas/angular-phonecat/app/index.html",
+		"/C/wamp/www/calendario generico/agenda-copia/calendario.php",
+		"/C/wamp/www/calendario generico/agenda-copia/css/css.css",
+		"/C/wamp/www/calendario generico/agenda-copia/printThis.js",
+		"/F/reacticas/angular-phonecat/test/unit/controllersSpec.js",
+		"/F/reacticas/angular-phonecat/app/bower_components/angular/angular.js",
+		"/C/Users/fdvergara/Desktop/index.html",
+		"/C/Users/fdvergara/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/calendario generico/agenda-copia/css.css",
+		"/C/Users/fdvergara/Desktop/agenda/calendar.php",
+		"/C/Users/fdvergara/Desktop/agenda/reportes.php",
+		"/C/wamp/www/calendario generico/agenda/js/calendario.js",
+		"/C/wamp/www/calendario generico/agenda-copia - copia/js/calendario.js",
+		"/C/Users/fdvergara/Desktop/modernizr.js",
+		"/C/Users/fdvergara/Documents/agenda/calendar.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/fact.php",
+		"/C/Users/fdvergara/Desktop/mostrar.php",
+		"/C/wamp/www/calendario generico/agenda/js/calendario-copia.js",
+		"/C/wamp/www/calendario generico/agenda-copia - copia/css/css.css",
+		"/C/wamp/www/calendario generico/agenda-copia/joom.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/jquery.js",
+		"/C/Users/fdvergara/Desktop/calendarioba.php",
+		"/C/Users/fdvergara/Desktop/cssbc.css",
+		"/C/Users/fdvergara/Downloads/joom.php",
+		"/C/wamp/www/calendario generico/agenda/js/calendario-cpia2.js",
+		"/C/wamp/www/calendario generico/agenda-copia/calendar.php",
+		"/C/wamp/www/calendario generico/agenda/calendar.php",
+		"/C/wamp/www/calendario generico/conections/conexion.php",
+		"/C/Users/fdvergara/Downloads/conexion.php",
+		"/C/wamp/www/calendario generico/agenda/calendario.php",
+		"/C/wamp/www/calendario generico/agenda-copia/controlador.php",
+		"/C/wamp/www/calendario generico/agenda-copia/js/calendario.js",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/conexion.php",
+		"/C/Users/fdvergara/AppData/Local/Temp/fz3temp-1/dia_dia_pendiente_es.php",
+		"/C/wamp/www/calendario generico/conexion.php",
+		"/C/wamp/www/formularioSaga/server.php",
+		"/E/Server/wamp/www/hakimi/js/js.js",
+		"/E/Server/wamp/www/hakimi/codphp.php",
+		"/C/wamp/www/formularioSaga/js/js.js",
+		"/C/wamp/www/formularioSaga/css/css.css",
+		"/C/Users/fdvergara/Downloads/index_hh.php",
+		"/C/wamp/www/calendario generico/agenda/COPIAcalendar.php",
+		"/C/wamp/www/calendario generico/css/style.css",
+		"/H/style.css",
+		"/C/wamp/www/calendario generico/agenda/joom.php",
+		"/E/Dropbox/e-notifica/eNotifica/eNotifica/static/js/main.js"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"td",
+			"font-size",
+			"fonty-size",
+			"../",
+			"input",
+			";\n",
+			"table",
+			"body",
+			"background",
+			"backgraound",
+			"backgra",
+			"container",
+			"dato",
+			"age",
+			"name",
+			"orden",
+			"nombre",
+			"age",
+			"name",
+			"age",
+			"name",
+			"phone",
+			"ng-repeat=\"phone in datos | filter:query\"",
+			"remove",
+			"tot",
+			"PATT",
+			"(){\n",
+			"totalAp",
+			"insumo",
+			"controlador",
+			"get",
+			"TotalCostoApx",
+			"get",
+			"orden",
+			"get",
+			"../controllers",
+			"../controllers//",
+			"controllers",
+			"controllers/",
+			"get",
+			"enviarProduccion",
+			");",
+			"buscarInsumo",
+			"agregarInsumo",
+			"enviarProduccion",
+			"\" ",
+			"procesos",
+			"enviarProduccion",
+			"required=\"\"",
+			"Logo",
+			"cone",
+			"$asunto",
+			"actividades",
+			"buscarActividades",
+			"});*/\n",
+			"select",
+			"cumplida",
+			"cumpli",
+			"cumplida",
+			"Cumplir actividad",
+			"cargarMeses",
+			"();\n",
+			"cargarMeses",
+			"<?",
+			"cargarAnio",
+			"// ",
+			"cargarAnio",
+			"cargarAnio\ncargarAnio",
+			"cargarAnio",
+			"and user",
+			"AND user",
+			"cargarAnio",
+			"buscarHistorialEventos",
+			"buscarHistorial",
+			"buscarHistorialEventos",
+			"buscarLugar",
+			"user",
+			"lugar_r",
+			"Detalles de Eventos",
+			"guardar",
+			"eliminar",
+			"Eliminar Actividad",
+			"¿Eliminar Actividad?",
+			"Eliminar Actividad",
+			"Guardar cambios",
+			"guardar cambios",
+			"guardar cambios ",
+			"buscarActividades",
+			"titulo_m_e",
+			"responsable_m",
+			"modificarA",
+			"strong",
+			"<strong class=\"cont\">",
+			"<strong class=\"bold\">",
+			"notas",
+			"validarHTML53",
+			"validarRegistro",
+			"aplazarA",
+			"#dialog",
+			"validarRegistro",
+			"aplazarA",
+			"aplazarActividades",
+			"Aplazar",
+			"fecha_ac",
+			"descripcion",
+			"desc",
+			"aplazarA",
+			"cargarAnio",
+			"buscarHistorialEventos",
+			".val",
+			"buscarHistorialEventos",
+			"aplazarA",
+			"modificar",
+			"$('.modal').fadeIn();",
+			"guardarA",
+			".moda",
+			"show",
+			"guardarA",
+			"show",
+			"guardarA",
+			"regitrarActividad",
+			"guardar",
+			"validarHTML5",
+			"registrarEventoPeriodico",
+			"aplazarA",
+			"modificarA",
+			"guardarA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./controllers/controlador",
+			"./controllers",
+			"../controllers",
+			"../controllers/",
+			"/controllers/",
+			"",
+			" ¿Eliminar Actividad?",
+			"¿Guardar cambios?",
+			"label",
+			"<strong>",
+			"",
+			"\"",
+			"$parmOrder",
+			" ORDER BY $parmOrder",
+			" ORDER BY '$parmOrder'",
+			"$order",
+			"$opcion ORDER BY",
+			"SELECT * From d89xz_tareas where `delete`<>'1' AND",
+			"SELECT * From d89xz_tareas where ´delete´<>'1' AND",
+			"width=\"36\" height=\"36\"",
+			"slow",
+			"",
+			"`delete`",
+			"onclick=\"agregarA(\\''+ano+'-'+mes+'-'+contadorDias+'\\')\"",
+			"onclick=\"agregarA(\\\"'+ano+'-'+mes+'-'+contadorDias+'\\\")\"",
+			"onclick=\"agregarA(n\\\"'+ano+'-'+mes+'-'+contadorDias+'n\\\")\"",
+			"onclick=\"agregarA(\"'+ano+'-'+mes+'-'+contadorDias+'\")\"",
+			"onclick=\"agregarA('+ano+'-'+mes+'-'+contadorDias+')\"",
+			"onclick=\"agregarA(this)\"",
+			"agregarA",
+			"",
+			"if(Date.parse(fecha)<=Date.parse(factual)){",
+			"if(Date.parse(fecha)<Date.parse(factual)){",
+			"factual+'>'+fecha",
+			"parse(factual)>Date",
+			"if(Date.parse(factual)>=Date.parse(fecha)){",
+			"(fecha)<Date",
+			"if(Date.parse(fecha)>=Date.parse(factual)){",
+			"Date.parse(factual)",
+			"val(\"\");",
+			".val(\"\");",
+			".attr(\"value\",\"\");",
+			".val();",
+			".attr(\"value\",\"\");",
+			"attr(\"value\",\"\");",
+			".attr('value','');",
+			"attr('value','');",
+			"val()=\"\";",
+			"<input type=\"text\" required>",
+			"placeholder",
+			"",
+			"br",
+			"a",
+			"icontains",
+			"user",
+			"id",
+			"lista",
+			"td",
+			"\"",
+			"Código",
+			"Máximo",
+			"</"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "procesos.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"js\\listaFichaTecnica.js"
+			],
+			[
+				"lis",
+				"listaFichaTecnica.php"
+			],
+			[
+				".css",
+				"css.css"
+			],
+			[
+				"html",
+				"pqrs\\plantillas\\contestadas.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

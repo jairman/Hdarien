@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_det" value="name:id;datatype:int,name:documen;datatype:int,name:cupo;datatype:int,name:fecha;datatype:date" />
+</info>

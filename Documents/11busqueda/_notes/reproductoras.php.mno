@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dia" value="name:id;datatype:int,name:dias;datatype:int" />
+	<infoitem key="UD_meses" value="name:id;datatype:int,name:meses;datatype:int" />
+</info>

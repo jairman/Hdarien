@@ -1,0 +1,16 @@
+[19-Feb-2014 16:57:10 America/Detroit] PHP Warning:  Division by zero in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar.php on line 94
+[19-Feb-2014 16:57:10 America/Detroit] PHP Warning:  Division by zero in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar.php on line 94
+[19-Feb-2014 16:59:26 America/Detroit] PHP Warning:  Division by zero in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar.php on line 94
+[19-Feb-2014 16:59:26 America/Detroit] PHP Warning:  Division by zero in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar.php on line 94
+[19-Feb-2014 17:00:39 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 136
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 137
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 138
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 149
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 162
+[19-Feb-2014 17:00:51 America/Detroit] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_liquidar_ver.php on line 184
+[19-Feb-2014 17:06:51 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266
+[19-Feb-2014 17:07:33 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266
+[19-Feb-2014 17:08:36 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266
+[19-Feb-2014 17:10:43 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266
+[19-Feb-2014 17:11:23 America/Bogota] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/solucion/public_html/saga/11busqueda/nomina/stin_nomina_ver.php on line 266

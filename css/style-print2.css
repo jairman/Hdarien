@@ -1,0 +1,169 @@
+/* 	
+---------------------------
+Con los siguientes Selectores no hay que hacer nada en el html
+ya que se le asigna directamente a los elementos html
+---------------------------
+*/
+/*Selector para darle propiedades al body*/
+body{
+	font: 12px "Trebuchet MS", Helvetica, sans-serif !important;
+	/*font-family:Arial;
+	font-size:12px;*/
+	margin-top:5px;
+}
+/*Selector para darle propiedades a la Tabla*/
+table{ 
+	margin-left: auto;
+	margin-right: auto;
+}
+/*
+-------------------
+la clase big se le pone a los elementos que queremos con un tamaño mas grande
+-------------------
+*/
+.big{
+	font-size:12px;
+}
+
+.p1{
+	font-size:16px !important
+}
+.p2{
+	font-size:14px !important
+}
+/*
+-------------------
+Selector para darle longitud a los inputs
+-------------------
+*/
+.long{
+	width:100%;
+}
+/*
+-------------------
+la clase name se usa para el nombre del producto
+-------------------
+*/
+.name{
+	font-size:14px;
+	font-weight:bold;
+	vertical-align:text-bottom;
+}
+
+/*
+-------------------
+Selector para el estilo de las filas principales Azul oscura
+-------------------
+*/
+.tittle{
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-weight:bold;
+	color: white;
+	font-size:12px;
+	padding:5px, 10px;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	height:20px;
+	vertical-align:middle;
+	border-bottom:2px solid white;
+}
+
+.stittle{
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-weight:bold;
+	color: white;
+	font-size:12px;
+	padding:5px, 10px;
+	text-shadow:0px 1px 2px rgba(0,0,0,0.9);
+	height:20px;
+	vertical-align:middle;
+	border-bottom:2px solid white;
+}
+/*
+-------------------
+la clase red esta para poner el texto en rojo
+-------------------
+*/
+.red{
+	font-size:12px;
+	color:#b03535;
+}
+/*
+-------------------
+la clase res se usa para resaltar texto dentro de las filas azules, les agrega un color amarillo fuerte
+-------------------
+*/
+.res{
+	color:#CCCC00;
+	font-size:12px
+}
+.green{
+	font-size:12;
+	color:##007f00;
+}
+/*
+-------------------
+la clase agrega un estilo para resaltar subtitulos
+-------------------
+*/
+.subtitle{
+	font-style:italic;
+	font-size:12px;
+	font-weight:bold}
+.subtitle2{
+	font-style:italic;
+	font-size:12px;
+}
+.sub{
+	font-size:10px;
+	font-weight:bold
+}
+/*
+-------------------
+Selector para el estilo de las celdas con texto gris claro
+-------------------
+*/
+.bold{
+	font-weight:bold;
+	padding:3px 15px 3px 15px ;
+}
+/*
+-------------------
+Selector para el estilo de las celdas con imputs
+-------------------
+*/
+.cont{
+	padding:1px 3px 1px 3px;
+}
+
+#main { clear:both; 
+	/*background: rgba(77,104,162,0.1);*/ 
+	/*width:500px; 
+	/*margin-left:150px;*/
+	-moz-border-radius-topleft: 12px;
+	-moz-border-radius-topright: 12px; 
+	-moz-border-radius-bottomright: 12px; 
+	-moz-border-radius-bottomleft: 12px;
+	-webkit-border-top-left-radius:12px; 
+	-webkit-border-top-right-radius:12px; 
+	-webkit-border-bottom-right-radius:12px; 
+	-webkit-border-bottom-left-radius:12px;
+	margin-left:3%;
+	margin-right:3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

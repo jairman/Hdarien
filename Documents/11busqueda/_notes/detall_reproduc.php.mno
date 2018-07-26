@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dtt" value="name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+	<infoitem key="UD_det" value="name:id;datatype:int,name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+	<infoitem key="UD_pajusta" value="name:vacuno;datatype:string,name:tipo_peso;datatype:string,name:indice;datatype:string,name:madre;datatype:string" />
+	<infoitem key="UD_dttt" value="name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+	<infoitem key="UD_dest" value="name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:vacuno;datatype:string,name:peso;datatype:int,name:fecha;datatype:date,name:madre;datatype:string" />
+</info>

@@ -1,0 +1,182 @@
+/**
+ * PRI Blog - Free Responsive Joomla! Blog Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+
+@import 'variables';
+@import 'mixins';
+
+// Button
+.btn-primary(@btnPrimaryBackground: @btnPrimaryBackground) {
+  .buttonBackground(@btnPrimaryBackground, spin(@btnPrimaryBackground, 20%));
+}
+
+//Link color
+a:not(.btn) {
+	color: darken(@link_color,20%);
+	&:hover {
+	  color: @link_color;
+	}
+}
+
+#component-area{
+	background:fade(@bg_color,50%);
+	transition:all 500ms ease;
+	border-radius:5px;
+	&:hover{
+		background:@bg_color;
+	}
+	#sp-component {
+    padding: 20px;
+}
+}
+
+#sp-header-wrapper .container, #sp-main-body-wrapper .container, #sp-copyright-wrapper .container{
+	background:none !important;
+}
+body {
+	color:@text_color;
+	&.bg {
+		background:@bg_color;
+	}
+}
+
+//header
+#sp-header-wrapper {
+	background:fade(@header_color,80%);
+	width:100%;
+	.box-shadow(0 0 10px 0 rgba(0,0,0,.3));
+	z-index:1001;
+		&:hover{
+		background:@header_color;
+	}
+
+	
+	//Logo
+	.logo{
+		background-image:url(../../images/presets/@{preset}/logo.png);
+	}
+}
+//Module
+.module {
+	background:fade(@bg_color,50%);
+	&:hover{
+		background:@bg_color;
+			}
+	}
+//Menu
+#sp-main-menu {
+	ul {
+		list-style:none;
+		margin:0;
+		padding:0;
+		
+		&.level-0 {
+			> li {
+				//Parent List Item
+				display:inline-block;
+				padding:0;
+				position:relative;
+
+				
+				//Anchor Link
+				a {
+					color:@link_color;
+					
+					//Menu Item Description
+					.menu-desc {
+						color:#999;
+					}
+				}
+				
+				&:hover,
+				&.active {
+				}
+				&:hover {
+				}
+				&.parent {
+					&:hover {
+					}
+				}
+			}
+		}
+	}
+}
+
+//Media
+#sp-media-wrapper{
+	background:fade(@header_color,20%);
+	color:@white;
+}
+//Widgets
+.module {
+	&.highlighted {
+		background:#3498DB;
+		a{
+			color:#fff !important;
+		}
+	}
+}
+
+#sp-copyright-wrapper{
+	background:fade(@header_color,80%);
+	color:@text_color;
+	transition:all 500ms ease;
+	&:hover{
+		background:@header_color;
+	}
+	
+	//Link
+	a:not(.btn){
+		color:lighten(@link_color, 10%);
+		 
+		&:hover{
+		   color:lighten(@link_color, 30%);
+		}
+	}
+}
+pre {
+background:fade(@bg_color,80%) !important;
+}
+
+/*Buttons*/
+.btn-primary, button, input[type='submit'], input[type='button'], submit {
+	background:fade(@link_color,90%) !important;
+	&:hover{
+		background:lighten(@link_color,20%) !important;
+	}
+	}
+.readmore .btn, .item-page .btn{
+	color:@link_color !important;
+	opacity:0.5;
+	border-radius:4px;
+	&:hover{
+		color:@link_color;}
+}
+.backtotop {
+    background-color: @link_color;
+    width: 45px;bottom: 30px;right: 10px;
+	min-height: 45px;
+    overflow: hidden; 
+	z-index: 100;
+	position: fixed;
+	display: block;
+	text-align: center;
+	color:white !important;
+	z-index:1000;
+	-webkit-transform: translateZ(0);
+    .border-radius(45px);
+	.transition(all 0.7s ease-in-out 0s);
+    
+    &.hidden-top {bottom: -100px; }
+    &:hover{background-color:@text_color;}
+    i{font-size: 24px;line-height: 38px;}
+}

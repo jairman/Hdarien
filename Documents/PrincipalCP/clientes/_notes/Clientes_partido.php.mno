@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kar" value="name:Name;datatype:string,name:Code;datatype:string" />
+	<infoitem key="UD_ciu" value="name:Name;datatype:string,name:Country;datatype:string,name:Province;datatype:string" />
+</info>

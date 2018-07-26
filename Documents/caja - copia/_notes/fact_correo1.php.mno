@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_abon" value="name:id;datatype:int,name:orden;datatype:string,name:abono;datatype:string,name:fecha;datatype:date,name:empre;datatype:string,name:trm;datatype:string,name:cuenta;datatype:string,name:salida;datatype:string,name:hacienda;datatype:string,name:docu;datatype:string" />
+	<infoitem key="UD_prove" value="name:id;datatype:int,name:fecha;datatype:date,name:factura;datatype:int,name:f_alarma;datatype:date,name:concep;datatype:string,name:consec_fact;datatype:string,name:estado;datatype:string,name:f_pago;datatype:string,name:valor;datatype:int,name:cliente;datatype:string,name:cedula;datatype:string,name:devolucion;datatype:int,name:comen_devol;datatype:string,name:comentario;datatype:string,name:hacienda;datatype:string,name:tiem;datatype:timestamp,name:user;datatype:string,name:delete;datatype:int" />
+</info>

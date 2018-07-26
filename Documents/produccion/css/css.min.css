@@ -1,0 +1,5 @@
+td,th{padding:.5%!important}#agregarInsumo{float:right;margin:5px 5px 0 0}#procesos_enviar input:focus:required{border:1px solid red}#procesos_enviar #t_insumos input,#procesos_enviar #t_procesos input{text-align:center}
+.modalLoad{display:none;position:fixed;z-index:1000;top:0;left:0;height:100%;width:100%;background:rgba(0,0,0,.8) url('../../img/loading.gif') 50% 50% no-repeat}
+.digitar{border:0!important;text-align:center}.tittle{margin:auto;width:90%!important}.totalCosto{color:red;font-size:18px;padding-right:150px;margin:auto;text-align:right;width:90%!important}
+.subtitle{border-top:double}.listaInput{outline:0}.ventana,ventanaProve{display:block;position:fixed;z-index:1000;top:0;left:0;height:100%;width:100%;background:rgba(0,0,0,.8) 50% 50% no-repeat}
+.ventana div,{margin:auto;width:90%}.ventana div.cerrar label{color:#fff;cursor:pointer;float:right;text-align:right;width:90%}.ventana div.contenido{background:#fff;height:100%;overflow-x:hidden;overflow-y:auto}

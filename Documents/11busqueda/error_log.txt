@@ -1,0 +1,186 @@
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'usuario'@'localhost' (using password: YES) in C:\xampp\htdocs\calendari\config.inc.php on line 8
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 115
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:51:46] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'usuario'@'localhost' (using password: YES) in C:\xampp\htdocs\calendari\config.inc.php on line 8
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 115
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[17-Sep-2012 23:52:04] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\calendari\index.php on line 163
+[19-Sep-2012 02:02:49] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 140
+[19-Sep-2012 02:02:49] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 140
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:06:38] PHP Notice:  Undefined variable: rowEmp in C:\xampp\htdocs\admin\calendari\index.php on line 165
+[19-Sep-2012 02:27:42] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:27:43] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[19-Sep-2012 02:28:04] PHP Notice:  Undefined variable: rowevent in C:\xampp\htdocs\admin\calendari\index.php on line 175
+[22-Oct-2012 20:01:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/proyectos/sg/11busqueda/index.php on line 138
+[22-Oct-2012 20:03:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/proyectos/sg/11busqueda/index.php on line 138
+[22-Oct-2012 20:12:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/proyectos/sg/11busqueda/index.php on line 138
+[22-Oct-2012 20:13:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/solucion/public_html/proyectos/sg/11busqueda/index.php on line 138
+[16-Nov-2012 14:13:59] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\Sganadero\11busqueda\index.php on line 157
+[16-Nov-2012 14:15:35] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\Sganadero\11busqueda\index.php on line 157

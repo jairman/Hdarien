@@ -1,0 +1,264 @@
+/**
+ * PRI Simple - Free Responsive Joomla! Template
+ * @author Devpri - http://www.devpri.com
+ * @copyright Copyright (c) 2013 Devpri
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ 
+ 
+ * Helix Framework Credit
+ * @author JoomShaper http://www.joomshaper.com
+ * @copyright Copyright (c) 2001 - 2013 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
+ */
+
+@import 'variables';
+@import 'mixins';
+
+.body-innerwrapper{
+	background:@bg_color;
+	.box-shadow(0px 1px 1px 0px darken(@bg_color,20%));
+}
+/* Header  */
+	/* Header Wrapper Color*/
+	#sp-header-wrapper {
+		background:@header_color;
+		.box-shadow(0px 1px 1px 0px darken(@header_color,15%));
+		/* Logo Image */
+		.logo{
+			background-image:url(../../images/presets/@{preset}/logo.png);
+		}
+		/* Logo Text */
+		.logo-text{
+			/* Logo Link Color */
+			a {
+				color:@text_color;
+			}
+		}
+	}
+	/* Menu Color */
+	#sp-main-menu {
+		ul {
+			/* Menu Parents */
+			&.level-0 {
+				> li {
+					/* After Item - pseudo-element */
+					&:after{
+						border-color:@accent_color;
+					}
+					/* Menu Link */
+					a {
+						color: @text_color;
+						/* Link Hover */
+						&:hover {
+							color:@accent_color;					
+						}
+					}
+					/* Parents Hover */
+					&:hover {
+						color:@accent_color;
+					}
+				}
+			}
+		}
+		/* Menu Items Color */
+		li{
+			/* Item menu - exclude menu group */
+			li:not(.sp-menu-group) {
+				border-bottom-color:darken(@header_color,5%);
+				/* Item menu - eclude menu group - pseudo-element */
+				&:after{
+					border-bottom-color:@accent_color;
+				}
+				/* Menu Link */
+				a {
+					color:@text_color;
+				}
+				/* Hover Menu */
+				&:hover{
+					background:@accent_color;
+					> a{
+						color:@bg_color !important;
+					}
+				}
+			}
+		}
+		/*Menu Group*/
+		.sp-menu-group {
+			/* Menu Group */
+			.sp-menu-group-title {
+				border-color:darken(@header_color,5%);
+				/* Menu Title */
+				.menu-title {
+					color:@text_color;
+				}
+			}
+		}
+		/* Submenu */
+		.sp-submenu {
+    		border-color:darken(@header_color,5%);
+			/* Submenu Warp */
+			.sp-submenu-wrap{
+				background-color:@header_color;;
+			}
+			/* Submenu Column */
+			.megacol {
+				border-color:darken(@header_color,5%);
+			}
+		}
+	}
+	/* Mobile Menu Color */
+	.sp-mobile-menu {
+		/* Menu List */
+		ul li {
+			background:@text_color !important;
+			color:@bg_color !important;
+			border-color:lighten(@text_color,5%) !important;
+			/* Mobile Menu Toggler */
+			.sp-menu-toggler{
+				color:@bg_color !important;
+				/* Home Mebile Menu Toggler */
+				&:hover{
+					color:@accent_color !important;
+				}
+			}
+		}
+	}
+/* End Header */
+/* Buttons */
+button.btn{
+	color:@accent_color !important;
+	background:darken(@header_color,5%) !important;
+}
+.btn-default{
+	color:@accent_color !important;
+	background:darken(@header_color,5%) !important;
+}
+.btn-primary(@btnPrimaryBackground: @btnPrimaryBackground) {
+  .buttonBackground(@btnPrimaryBackground, spin(@btnPrimaryBackground, 20%));
+}
+
+//Link color
+a:not(.btn) {
+	color: darken(@accent_color,20%);
+	&:hover {
+	  color: @accent_color;
+	}
+}
+
+
+body {
+	color:@text_color;
+	&.bg {
+		background:@bg_color;
+	}
+}
+
+
+//Feature
+#sp-feature-wrapper {
+	background:@accent_color;
+	color: @white;	
+	//Link
+	a:not(.btn){
+		color:lighten(@accent_color, 20%);
+		&:hover{
+		   color:lighten(@accent_color, 40%);
+		}
+	}
+	
+}
+//Media
+#sp-media-wrapper{
+	color:@white;
+	background:@accent_color;
+}
+//Widgets
+.module {
+	&.highlighted {
+		background:#3498DB;
+		a{
+			color:#fff !important;
+		}
+	}
+}
+#sp-breadcrumb-wrapper{
+	background: @accent_color;
+	color: @white;
+	a{
+		color: @white;
+	}
+}
+#sp-footer-wrapper {
+	background: @footer_color;
+	color:@white;
+	.sp-border();
+	//Link
+	a:not(.btn){
+		color:lighten(@accent_color, 10%);
+		&:hover{
+		   color:lighten(@accent_color, 30%);
+		}
+	}
+}
+#sp-copyright-wrapper {
+	background: darken(@footer_color,5%);
+	color:@white;
+	border-top:1px solid darken(@footer_color,3%);	
+	//Link
+	a:not(.btn){
+		color:lighten(@accent_color, 10%);
+		&:hover{
+		   color:lighten(@accent_color, 30%);
+		}
+	}
+}
+
+
+.sp-border {
+	border-top:1px solid darken(@footer_color, 5%);
+	&::after {
+		background:darken(@footer_color, 5%);
+	}
+}
+
+/*Buttons*/
+.btn-primary, button, input[type='submit'], input[type='button'], submit {
+	.btn-primary(spin(@accent_color, 10%));
+}
+
+.backtotop {
+    background-color:@accent_color;
+    width: 45px;
+	bottom: 40px;right: 10px;
+	min-height: 45px;
+    overflow: hidden; 
+	z-index:1000;
+	position: fixed;
+	display: block;
+	text-align: center;
+	color:white !important;
+    .border-radius(5px);.transition(all 0.7s ease-in-out 0s);
+    &.hidden-top {
+		bottom: -100px;
+	}
+    &:hover{
+		background-color:lighten(@header_color,20%);
+		i{
+			color:@accent_color;
+		}
+	}
+    i{font-size: 24px;line-height: 38px;}
+}
+
+//Page header
+.page-header{
+	border-bottom-color:darken(@bg_color,10%);
+}
+/* Pages */
+/* Services */
+.pri-services-block1{
+	&:hover{
+		background:@accent_color;
+		color:@bg_color;
+	}
+}
